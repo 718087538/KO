@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none; }
+
+.box {
+  display: flex; }
+  .box .box-left {
+    width: 260px;
+    height: 800px;
+    background-color: #354052; }
+    .box .box-left li {
+      color: aliceblue;
+      text-align: center;
+      height: 60px;
+      line-height: 60px; }
+    .box .box-left li:nth-of-type(odd) {
+      background-color: #999; }
+  .box .box-right {
+    flex: 1; }
+
+/*# sourceMappingURL=index.css.map */
