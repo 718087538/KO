@@ -4,10 +4,8 @@
 	<title>KO</title>
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/experience.css">
-    <script
-            src="http://code.jquery.com/jquery-3.3.1.js"
-            integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
-            crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/left-data.js" ></script>
+    <script src="http://code.jquery.com/jquery-3.3.1.js"></script>
     <!--未压缩cdn-->
     <script src="http://libs.baidu.com/backbone/0.9.2/backbone.js"></script>
     <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
@@ -33,57 +31,8 @@
 
 
 
-
-
-
-
-
-
-
 $(function (){
-    // 定义一个标题和内容链接的数组
-    var _Arry = [
-        {title:'起步', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/b.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/a.html'},
-        {title:'首页和购物车', url: 'pages/b.html'}
-    ];
+
     // 加载数组中的数据到左边
     menuList('#menu',_Arry);
 
