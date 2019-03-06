@@ -1,0 +1,15 @@
+/* KO/address/add1.wxss */
+.line{
+    margin: 0 30rpx;
+    padding: 16rpx 0;
+    font-size: 26rpx;
+    display: flex;
+    align-items: center;
+    border-bottom: 2rpx solid #E6E6E6;
+    }
+    .title{
+        width: 140rpx;
+    }
+    input{
+        width: 530rpx;
+    }

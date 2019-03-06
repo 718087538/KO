@@ -1,0 +1,12 @@
+<!--KO/address/add1.wxml-->
+<!-- 代号K1 
+引入：   "k1":"/KO/address/k1"
+使用：  <k1 ul="{{ul}}"><k1/>
+-->
+<block wx:for="{{ul}}" wx:key>
+    <view class='line'>
+        <view class='title'>{{item.title}}</view>
+        <input placeholder="{{item.placeholder}}" value="{{item.value}}"></input>
+    </view>
+</block>
+
