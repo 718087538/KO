@@ -7,10 +7,8 @@
 .box {
   display: flex; }
   .box .box-left {
-    width: 260px;
+    width: 278px;
     height: 800px;
-    overflow-x: hidden;
-    overflow-y: scroll;
     background-color: #354052; }
     .box .box-left li {
       color: aliceblue;

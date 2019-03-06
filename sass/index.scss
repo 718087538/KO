@@ -9,6 +9,8 @@
 	.box-left{
 		width: 260px;
 		height:800px;
+      overflow-x:hidden;
+        overflow-y: scroll;
 		background-color: #354052;
       li{
         color: aliceblue;
