@@ -1,0 +1,39 @@
+<!--KO/order/order1.wxml-->
+<view class='box'>
+    <view class='box-line1'>
+        <image class='img' src='/KO/img/shop-img-pic1@2x.jpg'></image>
+        <view class='right'>
+            <view class='title'>东北大棉袄 (伊拉克店)</view>
+            <view class='act'>活动：周年庆全场五折优惠 点击查看详情，了解更多</view>
+            <view class='addr'>地址：中东伊拉克和阿富汗交接处无极科技园...</view>
+            <view class='addr'>微信：88888888</view>
+        </view>
+    </view>
+
+    <view class='li-box'>
+        <block wx:for="{{ulk10}}" wx:key>
+            <view class='li'>{{item}}</view>
+        </block>
+    </view>
+
+</view>
+
+
+<!-- 代号K10
+引入："order1":"/KO/order/order1" 
+使用：  <order1 ulk10="{{ulk10}}"/>
+data数据格式：
+
+ulk10:[
+            "奶瓶用品",
+            "用品",
+            "奶瓶用品",
+            "奶瓶用品",
+
+            "奶瓶用品",
+            "奶瓶用品",
+            "奶瓶用品",
+            "奶瓶用品",
+        ]
+
+-->
