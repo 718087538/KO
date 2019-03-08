@@ -1,0 +1,13 @@
+<!--KO/title/title3.wxml-->
+<view class='box'>
+    <image class='box-img' src='/KO/img/home-icon-404@2x.png'></image>
+    <view class='box-title1'>未连接奶瓶</view>
+    <view class='box-title2'>链接奶瓶</view>
+</view>
+
+
+<!-- 代号K8
+引入： 
+使用：  
+data数据格式：
+-->

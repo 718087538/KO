@@ -1,0 +1,11 @@
+<!--KO/title/title4.wxml-->
+<view class='box'>
+    <view class='box-title3'>健康数据在手，宝宝成长无忧！</view>
+    <image class='box-img' src='/KO/img/home-icon-404@2x.png'></image>
+    <view class='box-title1'>待开发</view>
+</view>
+<!-- 代号K9
+引入： 
+使用：  
+data数据格式：
+-->

@@ -1,0 +1,11 @@
+/* KO/title/title4.wxss */
+@import "title3.wxss";
+.box-title3{
+    text-align: center;
+    color: #ff759c;
+    font-size: 26rpx;
+    margin-top: 30rpx;
+}
+.box-title1{
+    margin-bottom: 50rpx;
+}
