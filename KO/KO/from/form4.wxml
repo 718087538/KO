@@ -1,0 +1,11 @@
+<!--KO/from/form4.wxml-->
+<view class='li'>
+    <view class='li1'>喂养原则</view>
+    <view class='li2'>吾之初心永世不忘</view>
+</view>
+
+<!-- 代号K6
+引入： 
+使用：  
+data数据格式：
+-->

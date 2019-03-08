@@ -1,0 +1,23 @@
+/* KO/title/title2.wxss */
+page{
+    background-color: #f5f5f5;
+}
+.title-box{
+    display: flex;
+    align-items: center;
+    padding: 20rpx;
+    background-color: #fff;
+    margin: 20rpx;
+    border-radius: 10rpx;
+}
+.title-img{
+    width: 28rpx;
+    height: 28rpx;
+}
+.title-info{
+    color: #666;
+    font-size: 24rpx;
+    margin-left: 30rpx;
+    padding-left: 20rpx;
+    border-left: 2rpx solid #f5f5f5;
+}

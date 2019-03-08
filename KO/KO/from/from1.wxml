@@ -1,0 +1,17 @@
+<!--KO/from/from1.wxml-->
+
+
+<view class='line'>
+    <view class='title'>宝宝姓名</view>
+    <input placeholder="请输入宝宝年龄" value="{{item.value}}"></input>
+</view>
+
+
+
+<!-- 代号K3
+引入： 
+使用：  
+data数据格式：
+
+
+-->

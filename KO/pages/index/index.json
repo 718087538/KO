@@ -1,6 +1,7 @@
 {
   "usingComponents": {
       "add1":"/KO/address/k1",
+        "k3": "/KO/from/from1",
       "btn1":"/KO/button/button1"
   }
 }

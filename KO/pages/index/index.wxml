@@ -1,3 +1,10 @@
 <!--index.wxml-->
 <!-- <add1 ul="{{ul}}"></add1> -->
 <btn1 color="{{color}}" name="{{name}}" backgroundColor="{{backgroundColor}}"/>
+
+<k3 ul="{{ul}}"></k3>
+
+<view class='line1'>
+    <view class=''>宝宝姓名：</view>
+    <input placeholder='请输入宝宝年龄'></input>
+</view>

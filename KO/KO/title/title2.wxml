@@ -1,0 +1,12 @@
+<!--KO/title/title2.wxml-->
+<view class='title-box'>
+    <image class='title-img' src='/KO/img/home-icon-notice@2x.png'></image>
+    <view class='title-info'>健康数据在手，宝宝成长无忧！</view>
+</view>
+
+
+<!-- 代号K7
+引入： 
+使用：  
+data数据格式：
+-->

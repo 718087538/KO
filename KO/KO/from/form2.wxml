@@ -1,0 +1,12 @@
+<!--KO/from/form2.wxml-->
+<view class='line'>
+    <view class='title'>出生日期</view>
+    <view class='sel'>--请选择--</view >
+</view>
+
+
+<!-- 代号K4
+引入： 
+使用：  
+data数据格式：
+-->
