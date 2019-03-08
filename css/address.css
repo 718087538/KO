@@ -4,12 +4,20 @@
   justify-content: space-around; }
 
 .img-box {
-  text-align: center; }
-
-.example {
-  width: 375px;
-  height: 667px;
-  border: 2px solid #1BC550;
-  zoom: 0.8; }
+  text-align: center;
+  position: relative;
+  margin-bottom: 30px; }
+  .img-box .example {
+    width: 375px;
+    height: 667px;
+    border: 2px solid #1BC550;
+    zoom: 0.8; }
+  .img-box .number {
+    position: absolute;
+    font-size: 40px;
+    color: green;
+    bottom: 100px;
+    left: 50%;
+    transform: translateX(-50%); }
 
 /*# sourceMappingURL=address.css.map */

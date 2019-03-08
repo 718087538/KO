@@ -1,2 +1,3 @@
 <!--index.wxml-->
-<add1></add1>
+<!-- <add1 ul="{{ul}}"></add1> -->
+<btn1 color="{{color}}" name="{{name}}" backgroundColor="{{backgroundColor}}"/>

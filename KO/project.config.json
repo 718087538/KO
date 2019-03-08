@@ -41,8 +41,8 @@
 			"list": [
 				{
 					"id": 0,
-					"name": "地址",
-					"pathName": "KO/address/add1",
+					"name": "按钮",
+					"pathName": "KO/button/button1",
 					"query": "",
 					"scene": null
 				}

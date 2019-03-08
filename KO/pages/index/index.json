@@ -1,5 +1,6 @@
 {
   "usingComponents": {
-      "add1":"/KO/address/k1"
+      "add1":"/KO/address/k1",
+      "btn1":"/KO/button/button1"
   }
 }
