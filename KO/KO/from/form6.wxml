@@ -1,0 +1,20 @@
+<!--KO/from/form6.wxml-->
+<view class='box'>
+        <view class='left-times-data'>
+            <view class='left-times'>第一次</view>
+            <view class='right'>
+                <view class='right-title'>数据</view>
+                <image class='right-img' src='/KO/img/shop-icon-left@2x.png'></image>
+            </view>
+        </view>
+
+
+        <view class='left-num'>冲泡奶量60ML</view>
+        <view class='left-time'>12时13分</view>
+</view>
+
+<!-- 代号K12
+引入： 
+使用：  
+data数据格式：
+-->

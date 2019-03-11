@@ -1,0 +1,15 @@
+<!--KO/from/form7.wxml-->
+<view class='title'>
+    <image class='title-img1' src='/KO/img/home-icon-baby@2x.png'></image>
+    <view class='title-name'>宝宝年龄</view>
+    <view class='title-time'>15天以内</view>
+    <image class='title-img2' src='/KO/img/home-icon-caidanlan@2x.png'></image>
+
+
+</view>
+
+<!-- 代号K13
+引入： "title":"/KO/from/form7"
+使用：  <title/>
+data数据格式：
+-->

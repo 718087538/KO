@@ -1,0 +1,15 @@
+<!--KO/from/form5.wxml-->
+<view class='date'>
+    <view class='left'>
+        <view class='left-date'>2019 年 2 月20日</view>
+        <view class='left-num'>总奶量 500ML</view>
+    </view>
+    <image class='right-img' src='/KO/img/listing-icon-search@2x.png'></image>
+</view>
+
+
+<!-- 代号K11
+引入： 
+使用：  
+data数据格式：
+-->

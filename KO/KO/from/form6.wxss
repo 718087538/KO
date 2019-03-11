@@ -1,0 +1,35 @@
+/* KO/from/form6.wxss */
+.box{
+    margin: 0 30rpx;
+    padding: 30rpx 0;
+    border-bottom: 2rpx solid #fafafa;
+}
+.left-times-data{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left-times{
+    font-size: 32rpx;
+}
+
+.left-num{
+    color: #808080;
+    font-size: 24rpx;
+    line-height: 54rpx;
+}
+.left-time,.right-title{
+    font-size: 24rpx;
+    color: #808080;
+}
+.right{
+    display: flex;
+    height: 30rpx;
+    align-items: center;
+}
+
+.right-img{
+    width: 12rpx;
+    height: 24rpx;
+    margin-left: 20rpx;
+}

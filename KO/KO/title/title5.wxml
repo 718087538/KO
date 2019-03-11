@@ -1,0 +1,34 @@
+<!--KO/title/title5.wxml-->
+<view class='box'>
+    <view class='state'>
+        <image class='state-img' src='/KO/img/home-icon-lianjie@2x.png'></image>
+        <view class='state-text'>已连接奶瓶</view>
+    </view>
+
+    <view class='date-box'>
+        <view class='date'>
+            <image class='date-img' src='/KO/img/home-icon-temperature@2x.png'></image>
+            <view>
+                <view class='date-text'>温度</view>
+                <view class='date-text'>60℃</view>
+            </view>
+        </view>
+        <view class='date'>
+            <image class='date-img' src='/KO/img/home-icon-capacity@2x.png'></image>
+            <view>
+                <view class='date-text'>容量</view>
+                <view class='date-text'>60ML</view>
+            </view>
+        </view>
+    </view>
+
+    <view class='freshen'>刷新数据</view>
+
+
+</view>
+
+<!-- 代号K14
+引入： 
+使用： 
+data数据格式：
+-->

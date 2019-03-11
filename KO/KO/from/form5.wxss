@@ -1,0 +1,25 @@
+/* KO/from/form5.wxss */
+
+
+page{
+    background-color: #fafafa;
+}
+
+.date{
+    height: 105rpx;
+    display: flex;margin: 0 30rpx;
+    justify-content: space-between;
+    align-items: center;
+}
+.left-date{
+    line-height: 44rpx;
+    font-size: 28rpx;
+}
+.left-num{
+    font-size: 24rpx;
+    color: #808080;
+}
+.right-img{
+    width: 34rpx;
+    height: 34rpx;
+}
