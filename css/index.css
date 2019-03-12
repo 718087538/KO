@@ -15,16 +15,19 @@
     font-size: 26px;
     overflow-x: hidden;
     overflow-y: scroll;
-    background-color: #354052; }
+    background-color: #2a2a2a; }
+    .box .box-left .logo {
+      width: 246px;
+      height: 100px; }
     .box .box-left li {
       color: aliceblue;
       text-align: center;
       height: 60px;
       line-height: 60px; }
     .box .box-left li:nth-of-type(odd) {
-      background-color: #999; }
+      background-color: #5a5a5a; }
     .box .box-left .sel {
-      background-color: red !important; }
+      background-color: #1BC550 !important; }
   .box .box-right {
     flex: 1;
     justify-content: left; }

@@ -12,10 +12,14 @@
 	.box-left{
 		width: 260px;
 		height:800px;
-      font-size: 26px;
+        font-size: 26px;
         overflow-x:hidden;
         overflow-y: scroll;
-		background-color: #354052;
+		background-color: #2a2a2a;
+      .logo{
+        width: 246px;
+        height: 100px;
+      }
       li{
         color: aliceblue;
         text-align: center;
@@ -23,10 +27,10 @@
         line-height: 60px;
       }
       li:nth-of-type(odd){
-        background-color: #999;
+        background-color: #5a5a5a;
       }
       .sel{
-        background-color: red !important;
+        background-color: #1BC550 !important;
       }
 	}
   .box-right{
