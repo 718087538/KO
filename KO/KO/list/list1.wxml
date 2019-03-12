@@ -1,0 +1,25 @@
+<!--KO/list/list1.wxml-->
+<view class='box'>
+<block wx:for="{{uls}}" wx:key>
+    <view class='ul'>
+        <view class='left'>
+            <view class='left-title'>Kason的体检报告</view>
+            <view class='left-date'>2018-11-11</view>
+        </view>
+        <view class='right'>查看详情</view>
+    </view>
+</block>
+</view>
+
+
+
+
+
+<!-- 代号K26
+引入："order2":"/KO/order/order2" 
+使用：  
+data数据格式：
+
+
+
+-->

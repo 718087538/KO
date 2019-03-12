@@ -1,2 +1,2 @@
 /* KO/from/form2.wxss */
-@import "from1.wxss";
+@import "form1.wxss";

@@ -1,0 +1,28 @@
+/* KO/address/address4.wxss */
+page{
+    /* background-color: #f5f5f5; */
+    color: #333;
+}
+.box{
+    display: flex;
+    padding: 10rpx;
+    background-color: #fff;
+    margin: 0 20rpx;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2rpx solid #fafafa;
+}
+.date-img{
+    width: 21rpx;
+    height: 26rpx;
+    margin-right: 20rpx;
+}
+.time{
+    flex: 1;
+    font-size: 24rpx;
+}
+.sword{
+    width: 12rpx;
+    height: 24rpx;
+    margin-left: 70rpx;
+}

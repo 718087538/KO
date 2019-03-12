@@ -1,4 +1,4 @@
-// KO/from/from1.js
+// KO/from/form1.js
 Component({
     /**
      * 组件的属性列表

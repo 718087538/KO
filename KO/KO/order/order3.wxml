@@ -1,0 +1,28 @@
+<!--KO/order/order3.wxml-->
+<swiper
+    indicator-dots='true'
+    autoplay='true'
+    interval="3200"
+    duration="1000"
+    circular="true"
+    indicator-active-color="#fff"
+>
+<block wx:for="{{imgUrls}}">
+    <swiper-item>
+        <image class='swiper-img' src='{{item}}'></image>
+    </swiper-item>
+</block>
+
+
+</swiper>
+
+
+
+<!-- 代号K21
+引入："order2":"/KO/order/order2" 
+使用： 
+data数据格式：
+
+
+
+-->

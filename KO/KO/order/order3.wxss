@@ -1,0 +1,8 @@
+/* KO/order/order3.wxss */
+swiper{
+    height: 752rpx;
+}
+.swiper-img{
+    width: 100%;
+    height: 100%;
+}

@@ -7,29 +7,34 @@
     <title>Document</title>
     <link rel="stylesheet" href="../css/address.css">
     <script src="http://code.jquery.com/jquery-3.3.1.js"></script>
+
+    <script>
+        let component=[
+            {src:"../images/title/K7.png",id:"K7"},
+            {src:"../images/title/K8.png",id:"K8"},
+            {src:"../images/title/K9.png",id:"K9"},
+            {src:"../images/title/K14.png",id:"K14"},
+            {src:"../images/title/K15.png",id:"K15"},
+
+        ];
+
+        $(function(){
+            for (item in component) {
+                console.log(item);
+                $(".box").append(
+                    `<div class="img-box">
+    <img class="example" src="${component[item].src}" alt="${component[item].id}">
+    <div class="number">${component[item].id}</div>
+    `);}
+
+        })
+    </script>
+
+
 </head>
 <body>
 <div class="box">
-    <div class="img-box">
-        <img class="example" src="../images/title/k5.png" alt="K5">
-        <div class="number">K5</div>
-    </div>
-    <div class="img-box">
-        <img class="example" src="../images/title/k7.png" alt="K7">
-        <div class="number">K7</div>
-    </div>
-    <div class="img-box">
-        <img class="example" src="../images/title/K8.png" alt="K8">
-        <div class="number">K8</div>
-    </div>
-    <div class="img-box">
-        <img class="example" src="../images/title/K9.png" alt="K9">
-        <div class="number">K9</div>
-    </div>
-    <div class="img-box">
-        <img class="example" src="../images/title/K14.png" alt="K9">
-        <div class="number">K14</div>
-    </div>
+
 </div>
 </body>
 </html>

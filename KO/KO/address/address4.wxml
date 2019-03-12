@@ -1,0 +1,15 @@
+<!--KO/address/address4.wxml-->
+<view class='box'>
+    <image class='date-img' src='/KO/img/shop-icon-add@2x.png'></image>
+    <view class='time'>广州市番禺区番禺大道555号天安节能科技园总部
+中心（贝贝小王子）</view>
+    <image class='sword' src='/KO/img/shop-icon-left@2x.png'></image>
+</view>
+
+
+<!-- 代号K19
+引入： 
+使用：  
+data数据格式：
+
+-->

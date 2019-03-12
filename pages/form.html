@@ -5,39 +5,42 @@
     <title>Title</title>
     <link rel="stylesheet" href="../css/address.css">
     <script src="http://code.jquery.com/jquery-3.3.1.js"></script>
+
+    <script>
+        let component=[
+            {src:"../images/form/K3.png",id:"K3"},
+            {src:"../images/form/K4.png",id:"K4"},
+            {src:"../images/form/K5.png",id:"K5"},
+            {src:"../images/form/K6.png",id:"K6"},
+            {src:"../images/form/K11.png",id:"K11"},
+            {src:"../images/form/K12.png",id:"K12"},
+            {src:"../images/form/K13.png",id:"K13"},
+            {src:"../images/form/K16.png",id:"K16"},
+        ];
+// 使用jquery的方法
+/*        $(function(){
+            $(".box").append('<div class="img-box">' +
+                '<img class="example" src="../images/form/K3.png">' +
+                '<div class="number">K111111</div> </div>');
+        })*/
+// 使用ES6的模板字符串
+
+        $(function(){
+            for (item in component) {
+                console.log(item);
+                $(".box").append(
+                    `<div class="img-box">
+                        <img class="example" src="${component[item].src}">
+                    <div class="number">${component[item].id}</div>
+                    `);}
+
+        })
+    </script>
+
 </head>
 <body>
 <div class="box">
 
-    <div class="img-box">
-        <img class="example" src="../images/form/K3.png">
-        <div class="number">K3</div>
-    </div>
-
-    <div class="img-box">
-        <img class="example" src="../images/form/K4.png">
-        <div class="number">K4</div>
-    </div>
-    <div class="img-box">
-        <img class="example" src="../images/form/K5.png">
-        <div class="number">K5</div>
-    </div>
-    <div class="img-box">
-        <img class="example" src="../images/form/K6.png">
-        <div class="number">K6</div>
-    </div>
-    <div class="img-box">
-        <img class="example" src="../images/form/K11.png" >
-        <div class="number">K11</div>
-    </div>
-    <div class="img-box">
-        <img class="example" src="../images/form/K12.png" >
-        <div class="number">K12</div>
-    </div>
-    <div class="img-box">
-        <img class="example" src="../images/form/K13.png" >
-        <div class="number">K13</div>
-    </div>
 </div>
 </body>
 </html>

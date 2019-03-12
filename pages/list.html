@@ -5,32 +5,27 @@
     <title>Title</title>
     <link rel="stylesheet" href="../css/address.css">
     <script src="http://code.jquery.com/jquery-3.3.1.js"></script>
-
     <script>
         let component=[
-            {src:"../images/address/k1.png",id:"K1"},
-            {src:"../images/address/k17.png",id:"K17"},
-            {src:"../images/address/k18.png",id:"K18"},
-            {src:"../images/address/k19.png",id:"K19"},
-            {src:"../images/address/k25.png",id:"K25"},
+            {src:"../images/list/K26.png",id:"K26"},
+            {src:"../images/list/K27.png",id:"K27"},
 
         ];
 
-    $(function(){
-    for (item in component) {
-    console.log(item);
-    $(".box").append(
-    `<div class="img-box">
+        $(function(){
+            for (item in component) {
+                console.log(item);
+                $(".box").append(
+                    `<div class="img-box">
     <img class="example" src="${component[item].src}" alt="${component[item].id}">
     <div class="number">${component[item].id}</div>
     `);}
 
-    })
+        })
     </script>
 </head>
 <body>
 <div class="box">
-
 
 </div>
 </body>

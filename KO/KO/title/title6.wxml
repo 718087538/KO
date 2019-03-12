@@ -1,0 +1,28 @@
+<!--KO/title/title6.wxml-->
+
+<view class='box'>
+    <view class='box-title'>活动介绍</view>
+    <view class='box-time'>时间：2019年1月-12月</view>
+    <view class='box-info'>活动详情：活动期间全场商品均可打7折</view>
+</view>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 代号K25
+引入："order2":"/KO/order/order2" 
+使用：  
+data数据格式：
+
+
+
+-->

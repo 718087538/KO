@@ -1,0 +1,23 @@
+/* KO/order/order6.wxss */
+
+page {
+    background-color: #f5f5f5;
+}
+
+.box{
+    background-color: #fff;
+    margin: 30rpx 20rpx;
+    position: relative;
+    height: 370rpx;
+}
+.act-img{
+    width: 100%;
+    border-radius: 8rpx;
+    height: 100%;
+}
+/* .activits{
+    position: absolute;
+    bottom: 0;
+    right: 10rpx;
+    color: #fff;
+} */

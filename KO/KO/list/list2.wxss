@@ -1,0 +1,18 @@
+/* KO/list/list2.wxss */
+.begin{
+    display: flex;
+    align-items: center;
+    padding: 30rpx;
+}
+.sword{
+    width: 22rpx;
+    height: 12rpx;
+}
+.title{
+    font-size: 28rpx;
+    width: 170rpx;
+}
+.date{
+    font-size: 26rpx;
+    flex: 1;
+}

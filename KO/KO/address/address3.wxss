@@ -1,0 +1,21 @@
+/* KO/address/address3.wxss */
+page{
+    /* background-color: #f5f5f5; */
+    color: #333;
+}
+.box{
+    display: flex;
+    padding: 10rpx;
+    background-color: #fff;
+    margin: 0 20rpx;
+    align-items: center;
+    border-bottom: 2rpx solid #fafafa;
+}
+.date-img{
+    width: 21rpx;
+    height: 21rpx;
+    margin-right: 20rpx;
+}
+.time{
+    font-size: 24rpx;
+}

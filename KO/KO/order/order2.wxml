@@ -1,0 +1,29 @@
+<!--KO/order/order2.wxml-->
+<view class='box'>
+
+<block wx:for="{{goods}}" wx:key>
+    <view class='goods'>
+        <image class='goods-img' src='/KO/img/shop-img-pic1@2x.jpg'></image>
+
+        <view class='goods-title'>Kason你好帅Kason你好帅</view>
+
+        <view class='money'>
+            <text class='money-icon'>￥</text>
+            <text class='money-nums'>118</text>
+            <text class='past-money'>￥200</text>
+        </view>
+    </view>
+
+</block>
+</view>
+
+
+
+<!-- 代号K20
+引入："order2":"/KO/order/order2" 
+使用： 
+data数据格式：
+
+
+
+-->

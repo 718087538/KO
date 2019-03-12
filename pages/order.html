@@ -4,13 +4,33 @@
 	<title></title>
     <link rel="stylesheet" href="../css/address.css">
     <script src="http://code.jquery.com/jquery-3.3.1.js"></script>
+    <script>
+        let component=[
+            {src:"../images/order/K10.png",id:"K10"},
+            {src:"../images/order/K20.png",id:"K20"},
+            {src:"../images/order/K21.png",id:"K21"},
+            {src:"../images/order/K22.png",id:"K22"},
+            {src:"../images/order/K23.png",id:"K23"},
+            {src:"../images/order/K24.png",id:"K24"},
+            {src:"../images/order/K28.png",id:"K28"},
+
+        ];
+
+        $(function(){
+            for (item in component) {
+                console.log(item);
+                $(".box").append(
+                    `<div class="img-box">
+    <img class="example" src="${component[item].src}" alt="${component[item].id}">
+    <div class="number">${component[item].id}</div>
+    `);}
+
+        })
+    </script>
 </head>
 <body>
 <div class="box">
-    <div class="img-box">
-        <img class="example" src="../images/order/K10.png" alt="K10">
-        <div class="number">K10</div>
-    </div>
+
 </div>
 </body>
 </html>

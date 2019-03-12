@@ -1,0 +1,17 @@
+<!--KO/order/order5.wxml-->
+<view class='box'>
+    <view class='title'>商品详情</view>
+    <image class='goods' src='/KO/img/img.png'></image>
+</view>
+
+
+
+
+<!-- 代号K23
+引入："order2":"/KO/order/order2" 
+使用：  
+data数据格式：
+
+
+
+-->

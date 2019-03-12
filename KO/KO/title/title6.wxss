@@ -1,0 +1,11 @@
+/* KO/title/title6.wxss */
+.box{
+    margin: 30rpx;
+}
+.box-title{
+    font-size: 32rpx;
+    font-weight: bold;
+    margin-bottom: 10rpx;
+}
+.box-time{font-size: 24rpx;color: #666;}
+.box-info{font-size: 24rpx;color: #666;}

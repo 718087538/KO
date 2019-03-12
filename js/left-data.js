@@ -6,4 +6,5 @@ var _Arry = [
     {title:'地址', url: 'pages/address.html'},
     {title:'按钮', url: 'pages/button.html'},
     {title:'表单', url: 'pages/form.html'},
+    {title:'列表', url: 'pages/list.html'},
 ];

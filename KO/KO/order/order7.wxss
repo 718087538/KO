@@ -1,0 +1,20 @@
+/* KO/order/order7.wxss */
+@import "order5.wxss";
+.goods-box{
+    display: flex;
+    justify-content: space-between;
+}
+.goods{
+    width: 198rpx;
+    height: auto;
+}
+.goods-img{
+    width: 196rpx;
+    height: 196rpx;
+    border-radius: 6rpx;
+}
+.name{
+    font-size: 26rpx;
+}
+.icon{font-size: 20rpx;color: #e61010}
+.money{font-size: 34rpx;color: #e61010}

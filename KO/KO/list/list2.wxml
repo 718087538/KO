@@ -1,0 +1,26 @@
+<!--KO/list/list2.wxml-->
+<view class='box'>
+    <view class='begin'>
+        <view class='title'>开始时间</view>
+        <view class='date'>2018年 8 月 15 日</view>
+        <image class='sword' src='/KO/img/order-icon-left  拷贝 8.png'></image>
+    </view>
+
+</view>
+
+
+
+
+
+
+
+
+
+<!-- 代号K27
+引入："order2":"/KO/order/order2" 
+使用： 
+data数据格式：
+
+
+
+-->

@@ -1,0 +1,15 @@
+<!--KO/from/form8.wxml-->
+<view class='li'>
+    <view class='li1'>喂养原则</view>
+    <view class='li2'>
+        <view>44cm</view>
+        <view class='state'>正常</view>
+    </view>
+    <view class='li3'>建议60ML</view>
+</view>
+
+<!-- 代号K16
+引入： 
+使用：  
+data数据格式：
+-->

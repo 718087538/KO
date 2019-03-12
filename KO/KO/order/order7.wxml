@@ -1,0 +1,25 @@
+<!--KO/order/order7.wxml-->
+<view class='box'>
+    <view class='title'>商品详情</view>
+    <view class='goods-box'>
+        <view class='goods' wx:for="{{goodsList}}" wx:key>
+            <image class='goods-img' src='/KO/img/img.png'></image>
+            <view class='name'>商品名称名称</view>
+            <view>
+                <text class='icon'>￥</text>
+                <text class='money'>118</text>
+            </view>
+        </view>
+    </view>
+</view>
+
+
+
+<!-- 代号K28
+引入："order2":"/KO/order/order2" 
+使用：  
+data数据格式：
+
+
+
+-->

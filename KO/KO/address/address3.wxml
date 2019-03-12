@@ -1,0 +1,13 @@
+<!--KO/address/address3.wxml-->
+<view class='box'>
+    <image class='date-img' src='/KO/img/shop-icon-time@2x.png'></image>
+    <view class='time'>9:00-21:00</view>
+</view>
+
+
+<!-- 代号K18
+引入： 
+使用：  
+data数据格式：
+
+-->
