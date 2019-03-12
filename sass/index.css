@@ -5,10 +5,16 @@
   text-decoration: none; }
 
 .box {
-  display: flex; }
+  display: flex;
+  height: 100%;
+  width: 100%;
+  position: absolute; }
   .box .box-left {
-    width: 278px;
+    width: 260px;
     height: 800px;
+    font-size: 26px;
+    overflow-x: hidden;
+    overflow-y: scroll;
     background-color: #354052; }
     .box .box-left li {
       color: aliceblue;
@@ -17,7 +23,10 @@
       line-height: 60px; }
     .box .box-left li:nth-of-type(odd) {
       background-color: #999; }
+    .box .box-left .sel {
+      background-color: red !important; }
   .box .box-right {
-    flex: 1; }
+    flex: 1;
+    justify-content: left; }
 
 /*# sourceMappingURL=index.css.map */

@@ -9,12 +9,15 @@
         let component=[
             {src:"../images/list/K26.png",id:"K26"},
             {src:"../images/list/K27.png",id:"K27"},
+            {src:"../images/list/K11.png",id:"K11"},
+            {src:"../images/list/K12.png",id:"K12"},
+            {src:"../images/list/K13.png",id:"K13"},
+            {src:"../images/list/K16.png",id:"K16"},
 
         ];
 
         $(function(){
             for (item in component) {
-                console.log(item);
                 $(".box").append(
                     `<div class="img-box">
     <img class="example" src="${component[item].src}" alt="${component[item].id}">

@@ -19,6 +19,7 @@
         <div class="box-left">
             <img src="images/logo.png" alt="网站logo">
             <ul id="menu">
+
             </ul>
         </div>
         <iframe class="box-right" src="pages/title.html">
@@ -37,9 +38,12 @@ $(function (){
 
     // 点击切换右边的iframe内容
     $('#menu').on('click','li',function(){
-        var index = $(this).index();
-        $('.box-right').attr('src',_Arry[index].url);
+            var index = $(this).index();
+            $('.box-right').attr('src',_Arry[index].url);
+            $(this).addClass("sel").siblings().removeClass('sel');
         });
+
+
     });
 
 // 加载数组中的数据到左边
