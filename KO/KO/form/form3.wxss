@@ -1,0 +1,27 @@
+/* KO/from/form3.wxss */
+
+.li {
+    display: flex;
+    font-size: 24rpx;
+    margin: 0 20rpx;
+    padding: 30rpx 10rpx;
+    background-color: #fff;
+    border-bottom: 2rpx solid #f5f5f5;
+}
+
+.li1, .li3 {
+    color: #808080;
+}
+
+.li1 {
+    width: 200rpx;
+}
+
+.li2 {
+    flex: 1;
+}
+
+.li3 {
+    width: 150rpx;
+    text-align: right;
+}

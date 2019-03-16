@@ -1,0 +1,9 @@
+<!--KO/button/button2.wxml-->
+<button class='btn'>保存</button>
+
+
+<!--
+代号K30：
+引用："btn1":"/KO/button/button3"
+使用：
+ -->

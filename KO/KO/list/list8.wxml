@@ -1,0 +1,14 @@
+<!--KO/list/list8.wxml-->
+<block wx:for="{{ul}}" wx:key>
+<view class='box'>
+    <image class='box-img' src='/KO/img/img.png'></image>
+    <view class='title'>万善谷子</view>
+    <view class='state'>阴体质</view>
+</view>
+</block>
+
+<!-- 代号K31
+引入： 
+使用：  
+data数据格式：
+-->

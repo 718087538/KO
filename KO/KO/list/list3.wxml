@@ -1,0 +1,18 @@
+<!--KO/list/list3.wxml-->
+<view class='box'>
+    <image class='left' src='/KO/img/img.png'></image>
+    <view class='right'>
+        <view class='title'>玉米</view>
+        <view class='title-name'>
+            <view>痛风</view>
+            <view>痛风</view>
+            <view>非应季食材</view>
+        </view>
+    </view>
+</view>
+
+
+<!-- 代号K29
+引入："order2":"/KO/order/order2" 
+使用：  
+-->

@@ -4,16 +4,7 @@
 
 
 <!-- 
-代号K2，使用说明：
-
+代号K2：
 引用："btn1":"/KO/button/button1"
-
 使用：<btn1 color="{{color}}" name="{{name}}" backgroundColor="{{backgroundColor}}"/>
-
-data数据格式：
-
-      color:"#ffffff",
-      backgroundColor:"#ff759c",
-      name:"保存",
-
  -->

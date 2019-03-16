@@ -1,0 +1,15 @@
+<!--KO/button/button4.wxml-->
+<view class='box'>
+    <image class='title-img' src='/KO/img/img.png'></image>
+    <image class='jiao' src='/KO/img/half-circle.png'></image>
+    <view class='question'>你喜欢安静懒得说话吗？你喜欢安静懒得说话吗？你喜欢安静懒得说话吗？你喜欢安静懒得说话吗？你喜欢安静懒得说话吗？
+    <text class='time'>整个测试预估5分钟</text>
+    </view>
+</view>
+
+
+<!--
+代号K34：
+引用："btn1":"/KO/button/button4"
+使用：
+ -->

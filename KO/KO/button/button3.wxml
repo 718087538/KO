@@ -1,0 +1,14 @@
+<!--KO/button/button3.wxml-->
+<view class='box'>
+    <view class='btn'>没有</view>
+    <view class='btn'>很少</view>
+    <view class='btn'>有时</view>
+    <view class='btn'>偶尔</view>
+    <view class='btn seled'>总是</view>
+</view>
+
+<!--
+代号K32：
+引用："btn1":"/KO/button/button3"
+使用：
+ -->

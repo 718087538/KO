@@ -1,0 +1,12 @@
+<!--KO/form/form9.wxml-->
+
+     <radio-group class="item-right radio-group">
+          <label class="radio" wx:for="{{items}}">
+               <radio value="{{item.name}}" checked="{{item.checked}}"/><text class='info'>{{item.name}}</text>
+          </label>
+     </radio-group>
+     <!-- 代号K33
+引入： 
+使用：  
+data数据格式：
+-->

@@ -1,0 +1,10 @@
+/* KO/button/button2.wxss */
+.btn{
+    background-color: #09504c;
+    color: #fff;
+    width: 690rpx;
+    margin-left: 30rpx;
+    border-radius: 60rpx;
+    position: fixed;
+    bottom: 100rpx;
+}
