@@ -1,0 +1,14 @@
+<!--KO/my/my1.wxml-->
+<view class='info-box'>
+    <view class='box'>
+        <image class='box-img' src='/KO/img/img.png'></image>
+        <view class='title'>万善谷子</view>
+        <view class='state'>亲友档案</view>
+        <image class='dangan' src='https://upload-images.jianshu.io/upload_images/14707256-282e10b7d9586461.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/21/format/webp'></image>
+    </view>
+</view>
+
+
+<!-- 代号K41
+引入："order2":"/KO/order/order2" 
+-->

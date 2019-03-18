@@ -14,6 +14,7 @@ Component({
         info1: true,
         info2: false,
         info3: false,
+
     },
 
     /**

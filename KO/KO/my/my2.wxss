@@ -1,0 +1,35 @@
+/* KO/my/my2.wxss */
+
+.card{
+    background-image: url(https://upload-images.jianshu.io/upload_images/14707256-a64814f624e23a5f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/710/format/webp);
+    background-size: 100% 100%;
+    border-radius: 20rpx;
+    padding: 40rpx 30rpx;
+    margin: 6rpx 20rpx 30rpx 20rpx;
+}
+.line1{
+    display: flex;
+    justify-content: space-between;
+    font-size:26rpx;  
+    line-height: 20rpx;
+    align-items: center;
+}
+.line2{
+    font-size: 72rpx;
+    margin-top: 30rpx;
+    margin-bottom: 40rpx;
+}
+
+.re-img{
+    display: inline-block;
+width:26rpx;
+height:26rpx;
+}
+.pp{
+    display: inline-block;
+    margin-left: 10rpx;
+}
+.retu{
+    display: flex;
+    align-items: center;
+}

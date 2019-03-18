@@ -1,0 +1,19 @@
+<!--KO/my/my2.wxml-->
+
+<view class='card'>
+    <view class='line1'>
+        <view>你的体质是</view>
+        <view class='retu'> <image class='re-img' src='https://upload-images.jianshu.io/upload_images/14707256-6fbd916cd1afa8d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/18/format/webp'></image> <view class='pp'> 重新测试</view> </view>
+    </view>
+
+    <view class='line2'>血淤质</view>
+
+    <view class='line1'>
+        血瘀体质要养阴以活血，调气以化瘀
+    </view>
+</view>
+
+
+<!-- 代号K42
+引入："order2":"/KO/order/order2" 
+-->
