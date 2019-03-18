@@ -1,0 +1,51 @@
+/* KO/list/list10.wxss */
+
+.question{
+    margin: 30rpx 20rpx;
+    background-color: #fff;
+    font-size: 28rpx;
+    padding: 0 22rpx;
+    border-radius: 10rpx;
+}
+.q-img{
+    width: 40rpx;
+    height: 40rpx;
+    transform: rotate(-90deg);
+    /* margin-right: 20rpx; */
+    /* padding-top: 28rpx; */
+}
+.q-img2{
+
+    transform: rotate(90deg);
+}
+.q-line1{
+    line-height: 88rpx;
+    display: flex;justify-content: space-between;
+    border-bottom: 2rpx solid #f5f5f5;
+    align-items: center;
+}
+.hide1{
+    display: none;
+}
+.q-line1-box view{
+    line-height: 50rpx;
+}
+.img-box{
+    width: 100rpx;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.re-img{
+    display: inline-block;
+width:26rpx;
+height:26rpx;
+}
+.pp{
+    display: inline-block;
+    margin-left: 10rpx;
+}
+.retu{
+    display: flex;
+    align-items: center;
+}

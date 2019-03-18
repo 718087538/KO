@@ -1,0 +1,46 @@
+<!--KO/list/list10.wxml-->
+
+<view class='question'>
+    <view class='q-line1'>
+        <view class='q-title'>血瘀质可能会：</view>
+        <view bindtap='toggle' class='img-box'><image class='q-img {{info1?"":"q-img2"}}' src='/KO/img/right.png'></image></view>
+    </view>
+    <view class='q-line1-box {{info1?"show1":"hide1"}}'>
+        <view>· 我是是是是是是所所所所所所所所</view>
+        <view>· 我是是是是是是所所所所所所所所</view>
+        <view>· 我是是是是是是所所所所所所所所</view>
+    </view>
+
+    <view class='q-line1'>
+        <view class='q-title'>血瘀质可能会：</view>
+        <view bindtap='toggle2'><image class='q-img {{info2?"":"q-img2"}}' src='/KO/img/right.png'></image></view>
+    </view>
+    <view class='q-line1-box {{info2?"show2":"hide1"}}'>
+        <view>· 我是是是是是是所所所所所所所所</view>
+        <view>· 我是是是是是是所所所所所所所所</view>
+        <view>· 我是是是是是是所所所所所所所所</view>
+    </view>
+
+
+        <view class='q-line1'>
+        <view class='q-title'>血瘀质可能会：</view>
+        <view bindtap='toggle3'><image class='q-img {{info3?"":"q-img2"}}' src='/KO/img/right.png'></image></view>
+    </view>
+    <view class='q-line1-box {{info3?"show3":"hide1"}}'>
+        <view>· 我是是是是是是所所所所所所所所</view>
+        <view>· 我是是是是是是所所所所所所所所</view>
+        <view>· 我是是是是是是所所所所所所所所</view>
+    </view>
+
+</view>
+
+
+
+
+
+
+
+
+<!-- 代号K40
+引入："order2":"/KO/order/order2" 
+-->

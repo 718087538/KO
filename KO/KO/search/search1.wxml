@@ -1,0 +1,13 @@
+<!--KO/search/search1.wxml-->
+<view class='search'>
+    <view class='search-area'>
+        <input class='input' placeholder='搜索一下吧' placeholder-class='input-cont'></input>
+        <image class='img' src='/KO/img/icon.png'></image>
+    </view>
+</view>
+
+
+
+<!-- 代号K35
+引入："order2":"/KO/order/order2" 
+-->

@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f1cb417-f0ec-4835-8613-af17b40b5cd7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/button/button1.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/KO/KO/button/button1.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form1.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form1.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form2.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form2.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form3.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form3.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form4.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form4.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form5.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form5.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form6.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form6.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form7.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form7.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form8.wxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/from/form8.wxss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/order/order7.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/KO/KO/order/order7.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/KO/project.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/button.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/button.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/list.html" afterDir="false" />
-    </list>
+    <list default="true" id="0f1cb417-f0ec-4835-8613-af17b40b5cd7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -120,8 +80,8 @@
       <file leaf-file-name="list.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="324">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -209,22 +169,6 @@
             <path>
               <item name="KO" type="b2602c69:ProjectViewProjectNode" />
               <item name="KO" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KO" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KO" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KO" type="462c0819:PsiDirectoryNode" />
               <item name="sass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -285,16 +229,15 @@
       <workItem from="1552366502431" duration="248000" />
       <workItem from="1552369142883" duration="368000" />
       <workItem from="1552615912254" duration="23000" />
-      <workItem from="1552723804602" duration="222000" />
+      <workItem from="1552723804602" duration="325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21849000" />
+    <option name="totallyTimeSpent" value="21952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="641" y="34" width="1235" height="937" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24310777" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -662,8 +605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

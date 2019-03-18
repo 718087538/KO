@@ -1,0 +1,17 @@
+<!--KO/list/list9.wxml-->
+<view class='box' bindtap='go1'>
+    <view class='left-times'>我的体质</view>
+    <view class='right'>
+        <view class='right-title active'>血瘀质</view>
+        <image class='right-img' src='/KO/img/right.png'></image>
+    </view>
+</view>
+
+<view class='text-info'>体质测试源自国家标准《中医体质分类与辨别》研究而成，是快速准确了解自己身体状况的方法。此测试模型目前已经有超过1000万人验证</view>
+
+
+
+<!-- 代号K39
+引入： 
+使用：  
+-->

@@ -1,0 +1,30 @@
+<!--KO/menu/menu1.wxml-->
+
+<view class='different'>
+<view class='meun-line1'>
+    <navigator wx:for="{{meun}}" wx:key class='meun-item' url='{{item.url}}'>
+        <image class='{{item.class}}' src='{{item.src}}'></image>
+        <view class='meun-text'>{{item.title}}</view>
+    </navigator>
+</view>
+
+<view class='meun-line1'>
+    <view wx:for="{{meun2}}" wx:key class='meun-item'>
+        <image class='{{item.class}}' src='{{item.src}}'></image>
+        <view class='meun-text'>{{item.title}}</view>
+    </view>
+
+</view>
+</view>
+
+
+
+
+
+
+
+
+
+<!-- 代号K36
+引入："order2":"/KO/order/order2" 
+-->

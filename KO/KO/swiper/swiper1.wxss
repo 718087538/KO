@@ -1,0 +1,16 @@
+/* KO/swiper/swiper1.wxss */
+
+swiper{
+    border-radius: 10rpx;
+    margin: 30rpx 30rpx;
+    overflow: hidden;
+}
+swiper-item{
+    width: 100%;
+    border-radius: 10rpx;
+}
+.item-img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10rpx;
+}

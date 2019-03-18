@@ -1,0 +1,28 @@
+/* KO/search/search1.wxss */
+.search{
+    width: 100%;
+    overflow: hidden;
+    height: 240rpx;
+    background-color: #09504c;
+    padding: 30rpx 30rpx;
+}
+.img{
+    width: 36rpx;
+    height: 36rpx;
+    margin: 0 0 0 30rpx;
+}
+.search-area{
+    display: flex;
+    align-items: center;
+}
+.input-cont{color: #fff;font-size: 28rpx;}
+.input{
+    height: 66rpx;
+    width: 536rpx;
+    background-repeat: no-repeat;
+    border-radius: 30rpx;
+    background-position:20rpx center;
+    padding-left: 80rpx;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAB4UlEQVRIia3Vz4tNcRjH8dccYTEpSZE0aNZkNZq7slFjoTSmmPIHGGNSLAapr681qQmzUSwoKQsiCxZmlGz8ymwsUJKpiYVZYGrGWHzPvZ053TvcmfvZPHWe830/3/P0nM/TNj8/r45WoQ+92I6O/Pk3vMMD3MR0jLHeedBWB34Al7AZYxjHJ/zOi3SjBzM4h5EY459/wVfgIo7jLobxocGl1uI0TuAx+mKMPxeDj+AojuBaw29dqAru4Q32xhhni8ksjwcx1CQYnkst6kYoJzOslnp8p0kwiDG+xBkMhxA6irksv/UGnGoWXNBVfMWxMrwXT6WJWJLyXl/PWQvgO3P4cjWOzhBCexG+Ce9bAP+Yx61FeIa5FsBn8lhjZfiOLS2AVyflRxE+gV0tgFcwFWOcLMIfYh/WLBPeLxlaTRluSH1a8pyHEPagS5r3mqreMoyI3XjRJHsd3mIsxni4mKh6ywU8w33saAK8Ho8kRx0qJ6vwOWk5TEhmNJAfWEw9eCX5/kYcKr9QXhYrcR4n8QW38QSf8SsHVXJQF25JftKPKxiMMY42gle1DYPYj85Sbkqaist4XV1zIYSBcoFG8KLapV96FtOYLCaLO7Rc4H/gi6q8oIsFsronlldsVGrp2b+AgJUboaOAEAAAAABJRU5ErkJggg==) ;
+    background-color: #166c67;
+}

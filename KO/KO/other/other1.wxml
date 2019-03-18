@@ -1,0 +1,30 @@
+<!--KO/other/other1.wxml-->
+<view class='date' bindtap='aa'>
+    <view class='date-line1'>
+        <view class='big-num'>17</view>
+        <view>
+            <view class='sam'>2019年1月</view>
+            <view class='sam'>腊月十二</view>
+        </view>
+    </view>
+    <!-- 宜和忌 -->
+    <view class='yi-box'>
+        <view class='yi'>宜</view>
+        <view>和善生富 开万善之门，无知寸心瑜损</view>
+    </view>
+    <view class='ji-box yi-box'>
+        <view class='ji'>宜</view>
+        <view>和善生富 开万善之门，无知寸心瑜损无知寸心瑜损
+        </view>
+    </view>
+</view>
+
+
+
+
+
+
+
+<!-- 代号K37
+引入： 
+-->

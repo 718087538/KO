@@ -10,9 +10,11 @@ page{
     border-radius: 100% !important;
 }
 .jiao{
-    width: 20rpx;
-    height: 40rpx;
+    width: 30rpx;
+    height: 48rpx;
     margin-top: 30rpx;
+    position: relative;
+    z-index: 2;
 }
 .box{
     display: flex;

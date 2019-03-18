@@ -1,0 +1,38 @@
+/* KO/menu/menu1.wxss */
+page{
+    background-color: #fafafa;
+}
+
+.item-img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10rpx;
+}
+.meun-img1{width:27rpx; height: 48rpx;margin: 0 auto;}
+.meun-img2{width:46rpx; height: 38rpx;}
+.meun-img3{width:43rpx; height: 45rpx;}
+.meun-img4{width:36rpx; height: 48rpx;}
+.meun-img5{width:45rpx; height: 45rpx;}
+.meun-img6{width:35rpx; height: 45rpx;}
+.meun-img7{width:49rpx; height: 22rpx;}
+.meun-img8{width:18rpx; height: 50rpx;}
+.title{
+    margin-top: 20rpx;
+    margin-bottom: 40rpx;
+}
+
+.meun-line1{
+    display: flex;
+    font-size: 24rpx;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    margin-bottom: 40rpx;
+    align-items: flex-end;
+}
+.different{
+    overflow: hidden;
+    margin: 20rpx;
+    background-color: #fff;
+    padding: 40rpx 60rpx 0;
+}
