@@ -7,4 +7,10 @@ var _Arry = [
     {title:'button', url: 'pages/button.html'},
     {title:'form', url: 'pages/form.html'},
     {title:'list', url: 'pages/list.html'},
+    {title:'menu', url: 'pages/menu.html'},
+    {title:'my', url: 'pages/my.html'},
+    {title:'other', url: 'pages/other.html'},
+    {title:'search', url: 'pages/search.html'},
+    {title:'swiper', url: 'pages/swiper.html'},
+
 ];
