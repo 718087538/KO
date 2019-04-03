@@ -19,14 +19,13 @@ text-align: center;
     border-color: deeppink;
     transform: translateY(16px);
   }
-
   .number{
+    display: none;
     position: absolute;
     font-size: 40px;
     color:#1BC550;
-    bottom: 100px;
+    bottom: 60px;
     left: 50%;
-    //opacity: 0;
     transform: translateX(-50%);
   }
 }

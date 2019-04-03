@@ -10,16 +10,13 @@
         let component=[
             {src:"../images/swiper/K38.png",id:"K38"},
 
-
         ];
-
-
         $(function(){
             for (item in component) {
                 $(".box").append(
                     `<div class="img-box">
                         <img class="example" src="${component[item].src}">
-                    <div class="number">${component[item].id}</div>
+                    <div class="number">${component[item].id}</div></div>
                     `);}
 
         })
