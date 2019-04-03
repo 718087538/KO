@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f1cb417-f0ec-4835-8613-af17b40b5cd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/my.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/other.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/swiper.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/left-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/left-data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/index.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/address.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/address.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/address.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/address.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/address.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/address.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/address.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/address.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/address.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/address.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,20 +21,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/form.html">
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="42" selection-end-column="7" />
+            <state relative-caret-position="528">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/list.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="504">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -55,20 +48,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/menu.html">
+      <file leaf-file-name="address.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/address.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="start.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/start.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="33" selection-end-column="7" />
+            <state relative-caret-position="36">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="left-data.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/left-data.js">
+      <file leaf-file-name="title.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/title.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="396">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="address.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/address.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="address.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sass/address.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -82,34 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="swiper.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/swiper.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="K38.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/swiper/K38.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file leaf-file-name="other.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/other.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="my.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/my.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="34" selection-end-column="7" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -138,7 +131,6 @@
         <option value="$PROJECT_DIR$/pages/title.html" />
         <option value="$PROJECT_DIR$/pages/order.html" />
         <option value="$PROJECT_DIR$/pages/address.html" />
-        <option value="$PROJECT_DIR$/sass/address.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/button.html" />
         <option value="$PROJECT_DIR$/pages/form.html" />
@@ -150,6 +142,7 @@
         <option value="$PROJECT_DIR$/pages/other.html" />
         <option value="$PROJECT_DIR$/sass/index.scss" />
         <option value="$PROJECT_DIR$/pages/list.html" />
+        <option value="$PROJECT_DIR$/sass/address.scss" />
       </list>
     </option>
   </component>
@@ -160,10 +153,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="660" />
-    <option name="y" value="18" />
+    <option name="x" value="826" />
+    <option name="y" value="19" />
     <option name="width" value="1235" />
-    <option name="height" value="937" />
+    <option name="height" value="1007" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="添加" />
@@ -179,6 +172,11 @@
             <path>
               <item name="KO" type="b2602c69:ProjectViewProjectNode" />
               <item name="KO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KO" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KO" type="b2602c69:ProjectViewProjectNode" />
@@ -261,14 +259,17 @@
       <workItem from="1552615912254" duration="23000" />
       <workItem from="1552723804602" duration="325000" />
       <workItem from="1552902511619" duration="840000" />
+      <workItem from="1552958846380" duration="23000" />
+      <workItem from="1554203835237" duration="85000" />
+      <workItem from="1554258423463" duration="656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22792000" />
+    <option name="totallyTimeSpent" value="23556000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="660" y="18" width="1235" height="937" extended-state="0" />
+    <frame x="826" y="19" width="1235" height="1007" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24310777" />
@@ -276,7 +277,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32951653" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32938388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -523,45 +524,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/title.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/order.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/address.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/start.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sass/address.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -596,12 +562,9 @@
     <entry file="file://$PROJECT_DIR$/js/left-data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/swiper/K38.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/swiper.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -620,7 +583,42 @@
     <entry file="file://$PROJECT_DIR$/pages/other.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/title.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/address.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/start.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -631,10 +629,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/list.html">
+    <entry file="file://$PROJECT_DIR$/css/address.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/address.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="378">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
         </state>
       </provider>
     </entry>
