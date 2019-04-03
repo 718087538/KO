@@ -1,0 +1,24 @@
+<!--KO/my/my3.wxml-->
+<view class="container">
+  <view class="header">
+    <image class="headimg" src="/KO/img/img.png"></image>
+    <view class="name">I’m Hetty</view>
+    <view class="quit">
+      <image src="/KO/img/quit_icon.png"></image>
+      <view>退出登陆</view>
+    </view>
+  </view>
+
+  <navigator url="/pages/buyer/my_history" class="my-li">
+    <image src="/KO/img/my_history_icon.png"></image>
+    <view>历史采购记录</view>
+  </navigator>
+  <view class="my-li">
+    <image src="/KO/img/my_password_icon.png"></image>
+    <view>修改账号密码</view>
+  </view>
+</view>
+
+<!-- 代号K45
+引入："order2":"/KO/order/order2" 
+-->

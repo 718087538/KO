@@ -1,0 +1,27 @@
+/* KO/tab/tab1.wxss */
+.nav_top{
+    display: flex;
+    font-size: 26rpx;
+    height: 80rpx;
+    width: 100%;
+    line-height: 80rpx;
+    border-bottom:2px solid #fafafa; 
+    color: #808080;
+    justify-content: space-around;
+}
+.nav_top view{
+    width: 130rpx;
+    position: relative;
+}
+.sel::after{
+    content: '';
+    display: inline-block;
+    width: 0rpx;
+    height: 0rpx;
+    border-width: 10rpx;
+    border-style: solid;
+    border-color: #999 transparent transparent transparent;
+    position: absolute;
+    right: 0;
+    top: 36rpx;
+}

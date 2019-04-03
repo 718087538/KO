@@ -1,0 +1,46 @@
+/* KO/order/order8.wxss *//* pages/buyer/buyIndex.wxss */
+page{
+    background: #808080;
+}
+.li{
+    margin: 20rpx 0;
+    background: #fff;
+}
+.goodsInfo{
+    display: flex;
+    padding: 30rpx;
+    border-bottom: 2rpx solid #f2f2f2;
+}
+.goodsInfo .goodsImg{
+    width: 140rpx;
+    height: 140rpx;
+    margin-right: 30rpx;
+    border-radius: 6rpx;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+}
+.right .name{font-size: 28rpx;}
+.right .msg{font-size: 24rpx;color: #808080;margin-top: 10rpx;}
+.right .date{font-size: 20rpx;color: red;margin-top: 30rpx;}
+.btnGroup{
+    display: flex;
+    justify-content: flex-end;
+    padding: 30rpx 30rpx;
+}
+.btnGroup .btn{
+    padding: 6rpx 40rpx;
+    margin-left: 20rpx;
+    border-radius: 4rpx;
+    font-size: 28rpx;
+    border: 2rpx solid #4c8beb; 
+}
+.btnGroup .btn1{
+    color: #4c8beb;
+    background: #ebf3ff;
+}
+.btnGroup .btn2{
+    color: #fff;
+    background: #4c8beb;
+}

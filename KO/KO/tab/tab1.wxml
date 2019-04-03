@@ -1,0 +1,25 @@
+<!--KO/tab/tab1.wxml-->
+<view class='bg1'></view>
+<view class='nav_top'>
+    <view class="{{tabid==1?'sel':''}} trangle" data-id='1' bindtap='changeTab'>综合排行</view>
+<view class="{{tabid==2?'sel':''}} trangle" data-id='2' bindtap='changeTab'>销量优选   </view>
+<view class="{{tabid==3?'sel':''}} trangle" data-id='3' bindtap='changeTab'>销量优选 </view>
+</view>
+
+
+<block wx:if="{{tabid=='1'}}">
+111111
+</block>
+
+
+<block wx:if="{{tabid=='2'}}">
+  222222222222222
+</block>
+
+<block wx:if="{{tabid=='3'}}">
+  333333333333
+</block>
+
+<!-- 代号K43
+引入： 
+-->

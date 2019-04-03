@@ -1,0 +1,21 @@
+<!--KO/order/order8.wxml-->
+<view class='li'>
+    <view class='goodsInfo'>
+        <image class='goodsImg' src='/KO/img/img.png'></image>
+        <view class='right'>
+            <view class='name'>配件名称</view>
+            <view class='msg'>备注</view>
+            <view class='date'>交货时间:2018.01.01</view>
+        </view>
+    </view>
+
+    <view class='btnGroup'>
+        <view class="btn btn1">取消</view>
+        <view class="btn btn2">同意</view>
+    </view>
+</view>
+
+
+<!-- 代号K47
+引入："order8":"/KO/order/order8"   
+-->

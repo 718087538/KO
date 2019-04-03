@@ -1,0 +1,8 @@
+<!--KO/search/search2.wxml-->
+<view class="seach-box">
+      <image class="logo" src="/KO/img/img.png"></image>
+      <input class="seach-input" type="text" placeholder='库存搜索' placeholder-class='buyer-placeholder'></input>
+    </view>
+<!-- 代号K46
+引入："order2":"/KO/order/order2" 
+-->

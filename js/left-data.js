@@ -12,5 +12,6 @@ var _Arry = [
     {title:'other', url: 'pages/other.html'},
     {title:'search', url: 'pages/search.html'},
     {title:'swiper', url: 'pages/swiper.html'},
+    {title:'tab', url: 'pages/tab.html'},
 
 ];

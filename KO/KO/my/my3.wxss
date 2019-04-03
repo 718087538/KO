@@ -1,0 +1,44 @@
+/* KO/my/my3.wxss */
+.header{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 30rpx;
+  box-sizing: border-box;
+  background-color: #fff;
+  border-bottom: 20rpx solid #fafafa;
+}
+.header .headimg{
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+  margin-right: 33rpx;
+}
+.header .name{
+  flex: 1;
+}
+.header .quit{
+  font-size: 24rpx;
+}
+.header .quit image{
+  width: 40rpx;
+  height: 42rpx;
+  display: block;
+  margin: auto;
+}
+.my-li{
+  width: 100%;
+  height: 110rpx;
+  border-bottom: 2rpx solid #f2f2f2;
+  box-sizing: border-box;
+  font-size: 30rpx;
+  color: #333;
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+}
+.my-li image{
+  width: 38rpx;
+  height: 35rpx;
+  margin: 0 30rpx;
+}

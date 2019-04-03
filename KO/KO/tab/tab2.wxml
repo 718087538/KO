@@ -1,0 +1,25 @@
+<!--KO/tab/tab2.wxml-->
+      <view class="buyer-tab-btn">
+        <view class="text-l {{status=='0' ? 'on':''}}" data-tabid="0" bindtap='clickTab'>采购申请</view>
+        <view class="{{status=='1' ? 'on':''}}" data-tabid="1" bindtap='clickTab'>退换申请</view>
+        <view class="text-r {{status=='2' ? 'on':''}}" data-tabid="2" bindtap='clickTab'>已完成</view>
+      </view>
+
+      <view class="buyer-tab-container">
+        <!--采购申请-->
+        <block wx:if="{{status=='0'}}">
+          0000000000000000000
+        </block>
+        <!--退换申请-->
+        <block wx:if="{{status=='1'}}">
+          11111111111111111111111
+        </block>
+        <!--已完成-->
+        <block wx:if="{{status=='2'}}">
+         2222222222222222222222
+        </block>
+    </view>
+
+<!-- 代号K44
+引入： 
+-->
