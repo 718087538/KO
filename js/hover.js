@@ -14,11 +14,13 @@ $(function(){
     `);}
 
     // 添加隐藏和显示
-    $(".img-box").mouseover(function () {
+    $(".img-box").mouseenter(function () {
         // this指的就是当前元素
         $(this).find(".number").css({"display":"block"});
         $(this).siblings().find(".number").css({"display":"none"});
-    })
+        $(this).find(".example").css({"border-color": "deeppink", "transform": "translateY(16px)"});
+        $(this).siblings().find(".example").css({"border-color": "#1BC550", "transform": "translateY(0px)"});
+    });
 
 
     // 可视区域内的直接加动画效果

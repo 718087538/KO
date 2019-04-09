@@ -13,9 +13,6 @@
     border: 2px solid #1BC550;
     zoom: 0.8;
     transition: all 0.3s; }
-  .img-box .example:hover {
-    border-color: deeppink;
-    transform: translateY(16px); }
   .img-box .number {
     display: none;
     position: absolute;
