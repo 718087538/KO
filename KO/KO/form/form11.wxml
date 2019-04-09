@@ -1,0 +1,17 @@
+<!--KO/form/form11.wxml-->
+<view class='bg'>
+
+</view>
+
+<view class='login'>
+<view class='user'>骑手登录</view>
+<view class='count'>账号</view>
+<input type='text' class='write'></input>
+<view class='count'>密码</view>
+<input type='text' class='write'></input>
+<view class='btn'>保存</view>
+</view>
+
+<!-- 代号K58
+引入： "form11":"/KO/form/form11"
+-->

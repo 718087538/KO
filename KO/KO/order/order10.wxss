@@ -1,0 +1,65 @@
+/* KO/order/order10.wxss */
+/* 具体课程 */
+.classBox{
+    margin: 0 40rpx;
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.classBox .item{
+    width: 327rpx;
+    margin-bottom: 70rpx;
+}
+.classBox .classImg{
+    width: 327rpx;
+    height: 307rpx;
+    border-radius: 10rpx;
+}
+.classBox .title{
+    font-size: 36rpx;
+}
+.classBox .date{
+    font-size: 24rpx;
+    color: #575757;
+    width: 264rpx;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+     margin-top: 10rpx;
+}
+
+.classBox .number{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20rpx;
+    align-items: center;
+}
+.classBox .number text:nth-child(1){
+   font-size: 48rpx;
+   color: #da1b0d;
+}
+.classBox .number text:nth-child(2){
+   font-size: 30rpx;
+   color: #a6a6a6;
+}
+.haoPing{
+    font-size: 30rpx;
+    color: #da1b0d;
+}
+.classBox .iLike{
+    width: 40rpx;
+    height: 34rpx;
+    position: absolute;
+    top:30rpx;
+left:24rpx;
+
+}
+.classBox .play{
+    width: 80rpx;
+    height: 80rpx;
+    position: absolute;
+    top:112rpx;
+    left: 118rpx;
+    opacity: 0.5;
+}

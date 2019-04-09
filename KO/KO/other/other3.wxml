@@ -1,0 +1,7 @@
+<!--KO/other/other3.wxml-->
+<image class='vipImg' src='/KO/img/banner.png'></image>
+
+
+<!-- 代号K61
+引入： "other3":"/KO/other/other3"
+-->

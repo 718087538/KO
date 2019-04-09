@@ -1,0 +1,10 @@
+<!--KO/my/my5.wxml-->
+<view class="myOrder shadow ">
+    <view class="title work">
+        <view class="orderName">工作台</view>
+        <view class="begin">我要开课</view>
+    </view>
+</view>
+<!-- 代号K50
+引入："my5":"/KO/my/my5" 
+-->

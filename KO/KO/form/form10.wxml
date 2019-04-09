@@ -1,0 +1,10 @@
+<!--KO/form/form10.wxml-->
+<view class='box'>
+    <input type='text' placeholder='原来的名字'></input>
+    <image class='qingli' src='/KO/img/xgnc-qx@2x.png'></image>
+</view>
+
+
+<!-- 代号K53
+引入： "form10":"/KO/form/form10"
+-->

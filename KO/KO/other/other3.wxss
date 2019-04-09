@@ -1,0 +1,5 @@
+/* KO/other/other3.wxss */
+.vipImg{
+    width: 750rpx;
+    height: 238rpx;
+}

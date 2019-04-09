@@ -1,0 +1,24 @@
+<!--KO/tab/tab3.wxml-->
+      <view class="buyer-tab-btn">
+        <view class="text-l {{status=='0' ? 'on':''}}" data-tabid="0" bindtap='clickTab'>全部</view>
+        <view class="{{status=='1' ? 'on':''}}" data-tabid="1" bindtap='clickTab'>未使用</view>
+        <view class="text-r {{status=='2' ? 'on':''}}" data-tabid="2" bindtap='clickTab'>已使用</view>
+
+        <view class="text-r {{status=='3' ? 'on':''}}" data-tabid="3" bindtap='clickTab'>已过期</view>
+      </view>
+
+      <view class="buyer-tab-container">
+        <block wx:if="{{status=='0'}}">
+         000000000000000000000000
+        </block>
+        <block wx:if="{{status=='1'}}">
+          11111111111111111111111
+        </block>
+        <block wx:if="{{status=='2'}}">
+         2222222222222222222222
+        </block>
+    </view>
+
+<!-- 代号K60
+引入： "tab3":"/KO/tab/tab3"
+-->

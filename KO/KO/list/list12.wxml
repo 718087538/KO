@@ -1,0 +1,12 @@
+<!--KO/list/list12.wxml-->
+<navigator class='li' url=''>
+    <image class='headImg' src='/KO/img/img.png'></image>
+    <view class='subject'>小布老师 · 瑜伽</view>
+</navigator>
+
+
+<!--
+代号K58：
+引用："list12":"/KO/list/list12"
+使用：
+ -->

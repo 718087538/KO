@@ -2,29 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f1cb417-f0ec-4835-8613-af17b40b5cd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/animeta.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/animate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/address.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/address.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/address.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/address.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/hover.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/hover.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/address.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/address.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/button.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/button.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/my.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/my.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/order.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/other.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/other.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/start.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/swiper.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/swiper.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/tab.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/tab.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/title.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/title.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/address.css" beforeDir="false" afterPath="$PROJECT_DIR$/sass/address.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/address.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/sass/address.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/address.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/address.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KO/KO/button/button4.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/KO/KO/button/button4.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KO/KO/button/button4.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/KO/KO/button/button4.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KO/KO/list/list9.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/KO/KO/list/list9.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KO/KO/order/order1.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/KO/KO/order/order1.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KO/KO/tab/tab2.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/KO/KO/tab/tab2.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KO/KO/title/title6.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/KO/KO/title/title6.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KO/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/KO/app.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KO/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/KO/project.config.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hover.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hover.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/hover.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+            <state relative-caret-position="414">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -110,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="button.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="button.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/button.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+            <state relative-caret-position="270">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -179,8 +165,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="661" />
-    <option name="y" value="79" />
+    <option name="x" value="328" />
     <option name="width" value="1570" />
     <option name="height" value="1007" />
   </component>
@@ -192,6 +177,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,6 +198,12 @@
             <path>
               <item name="KO" type="b2602c69:ProjectViewProjectNode" />
               <item name="KO" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KO" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -228,7 +220,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,6 +235,7 @@
     <property name="options.lastSelected" value="configurable.group.appearance" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -293,15 +285,20 @@
       <workItem from="1554203835237" duration="85000" />
       <workItem from="1554258423463" duration="3622000" />
       <workItem from="1554270660987" duration="5249000" />
-      <workItem from="1554276715189" duration="5176000" />
+      <workItem from="1554276715189" duration="5276000" />
+      <workItem from="1554288344289" duration="322000" />
+      <workItem from="1554345253724" duration="801000" />
+      <workItem from="1554346070354" duration="19000" />
+      <workItem from="1554686593771" duration="1415000" />
+      <workItem from="1554707304063" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36947000" />
+    <option name="totallyTimeSpent" value="39616000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="661" y="79" width="1570" height="1007" extended-state="0" />
+    <frame x="328" y="0" width="1570" height="1007" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18994778" />
@@ -330,6 +327,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/hover.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sass/address.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -549,9 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/address.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/address.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -650,13 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/button.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/address.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -666,10 +660,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/hover.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+        <state relative-caret-position="414">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/button.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

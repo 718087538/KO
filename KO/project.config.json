@@ -48,8 +48,8 @@
 				},
 				{
 					"id": 1,
-					"name": "按钮aa",
-					"pathName": "KO/order/order8",
+					"name": "当前",
+					"pathName": "KO/list/list13",
 					"query": "",
 					"scene": null
 				}

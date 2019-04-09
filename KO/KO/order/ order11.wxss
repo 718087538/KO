@@ -1,0 +1,66 @@
+/* KO/order/ order11.wxss */
+
+.teacherImg{
+    width: 40rpx;
+    height: 40rpx;
+    margin-right: 16rpx;
+    border-radius: 50%;
+}
+.juan{
+    border-radius: 10rpx;
+    width: 582rpx;
+    height: 222rpx;
+    margin: 40rpx 80rpx;
+}
+.juanInfo{
+    border-radius: 10rpx 10rpx 0 0;
+    display: flex;
+    height: 162rpx;
+    align-items: center;
+    color: #fff;
+    padding: 20rpx;
+    box-sizing: border-box;
+    background: linear-gradient(to right,#61bff2,#62a1ff)
+}
+.juanInfo .left .icon{
+    font-size: 28rpx;
+}
+.juanInfo .left .num{
+    font-size: 110rpx;
+}
+.juanInfo .right{
+    text-align: center;
+    margin-left: 40rpx;
+    padding-left: 60rpx;
+    height: 80rpx;
+    margin: 0 auto;
+    border-left: 1px solid #fff;
+}
+.juanInfo .right .liji{
+    width: 160rpx;
+    font-size: 28rpx;
+    text-align: center;
+    border: 1rpx solid #fff;
+    border-radius: 10rpx;
+}
+.juanInfo .right .man{
+    font-size: 28rpx;
+    text-align: center;
+}
+.juan .teacher{
+    display: flex;
+    height: 60rpx;
+    align-items: center;
+    padding: 0 20rpx;
+}
+.juan .teacher .teacherName{
+    font-size: 24rpx;
+    flex: 1;
+}
+.juan .teacher .date{
+    font-size: 16rpx;
+    color: #4d4d4d;
+}
+.lost{
+    background: linear-gradient(to right,#d2d2d2,#7b7a7a);
+}

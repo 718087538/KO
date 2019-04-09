@@ -1,0 +1,23 @@
+<!--KO/order/order10.wxml-->
+
+<view class='classBox'>
+<block wx:for="{{class}}" wx:key>
+    <view class='item'>
+        <image class='classImg'  src='/KO/img/img.png'></image>
+    <view class='title'>带你走进声乐</view>
+    <view class='date'>2015-2018法国里昂2015-2018法国里昂</view>
+    <view class='number'>
+        <text>￥389</text>
+        <text>890人付款</text>
+    </view>
+    <view class='haoPing'>好评率95%</view>
+    </view>
+    <image class='iLike' src='/KO/img/my-sckc-icon-sc@2x.png'></image>
+    <image class='play' src='/KO/img/my-sckc-icon-bf@2x.png'></image>
+</block>
+
+</view>
+
+<!-- 代号K57
+引入："order10":"/KO/order/order10" 
+-->
