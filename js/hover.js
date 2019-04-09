@@ -34,8 +34,8 @@ $(function(){
 
             let topHeight= imgBox.eq(i).offset().top;
 
-            console.log("1:"+topHeight);
-            console.log("2:"+canSeeHeight);
+            // console.log("1:"+topHeight);
+            // console.log("2:"+canSeeHeight);
 
             // 当前的盒子
             let nowItem = imgBox.eq(i);
