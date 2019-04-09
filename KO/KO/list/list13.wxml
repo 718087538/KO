@@ -1,0 +1,18 @@
+<!--KO/list/list13.wxml-->
+<view class='identy'>VIP会员</view>
+
+<view class='li2 shadow'>
+    <text class='price'>￥30</text>
+    <text class='intro'>30元/月，开通会员好处多多</text>
+</view>
+<view class='li2 shadow'>
+    <text class='price'>￥300</text>
+    <text class='intro'>300元/年，开通会员好处多多</text>
+</view>
+
+
+<!--
+代号K62：
+引用："list13":"/KO/list/list13"
+使用：
+ -->

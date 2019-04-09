@@ -1,0 +1,28 @@
+<!--KO/other/other2.wxml-->
+<view class='honorBox'>
+    <view class='honorItem'>
+        <image class='honorImg' src='/KO/img/my-xunzhang@2x.png'></image>
+        <view class='state'>学习小白</view>
+        <view class='time'>累计满10课时</view>
+        <text class='nuli'>还需努力！\n加油！</text>
+    </view>
+
+        <view class='honorItem'>
+        <image class='honorImg' src='/KO/img/my-xunzhang2@2x.png'></image>
+        <view class='state'>学习小白</view>
+        <view class='time'>累计满10课时</view>
+        <text class='nuli'>离学霸还有一步之遥\n加油！</text>
+    </view>
+
+        <view class='honorItem'>
+        <image class='honorImg' src='/KO/img/my-xunzhang3@2x.png'></image>
+        <view class='state'>学霸</view>
+        <view class='time'>累计满10课时</view>
+        <text class='nuli'>还需努力！\n加油！</text>
+    </view>
+</view>
+
+
+<!-- 代号K55
+引入： "other2":"/KO/other/other2"
+-->

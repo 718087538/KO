@@ -1,0 +1,34 @@
+<!--KO/order/order9.wxml-->
+
+<view class="myOrder shadow">
+    <view class="title">
+        <view class="orderName">我的订单</view>
+        <view class="orderAll">全部</view>
+    </view>
+    <view class="orderInfo">
+        <view class="item">
+            <image class="itemImg1" src="/KO/img/img.png"></image>
+            <view>收藏的</view>
+        </view>
+        <view class="item">
+            <image class="itemImg2" src="/KO/img/img.png"></image>
+            <view>关注的</view>
+        </view>
+        <view class="item">
+            <image id="img1" class="itemImg3" src="/KO/img/img.png"></image>
+            <view>优惠券</view>
+        </view>
+        <view class="item">
+            <image id="img2" class="itemImg3" src="/KO/img/img.png"></image>
+            <view>优惠券</view>
+        </view>
+                <view class="item">
+            <image id="img2" class="itemImg3" src="/KO/img/img.png"></image>
+            <view>优惠券</view>
+        </view>
+    </view>
+</view>
+
+<!-- 代号K49
+引入："order9":"/KO/order/order9"   
+-->

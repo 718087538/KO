@@ -25,7 +25,6 @@ page{
     height: 32rpx;
     margin-left: 20rpx;
 }
-
 .bottom-img{
     width: 166rpx;
     height: 66rpx;

@@ -1,0 +1,33 @@
+/* KO/my/my6.wxss */
+.student{
+    position: relative;
+    display: flex;
+    padding: 30rpx 40rpx;
+}
+.headImg{
+    width: 112rpx;
+    height: 112rpx;
+    border-radius: 50%;
+    margin-right: 20rpx;
+}
+.student .name{
+    font-size: 36rpx;
+}
+.student .fans{
+    margin-top: 20rpx;
+    font-size: 30rpx;
+}
+.student .fans :nth-child(1){
+    margin-right: 30rpx;
+}
+.like{
+    position: absolute;
+    right: 40rpx;
+    font-size: 30rpx;
+    width: 115rpx;
+    height: 44rpx;
+    background: #4b90f6;
+    color: #fff;
+    border-radius: 10rpx;
+    text-align: center;
+}

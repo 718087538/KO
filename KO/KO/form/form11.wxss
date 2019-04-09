@@ -1,0 +1,42 @@
+/* KO/form/form11.wxss */
+page{
+    background: #fafafa;
+}
+.bg{
+    width: 750rpx;
+    height: 200rpx;
+    background: linear-gradient(to bottom,#fbbc17,#fee368);
+    border-radius: 0 0 750rpx 750rpx/0 0 50rpx 50rpx;
+}
+.login{
+    background: #fff;
+    width: 704rpx;
+    padding: 80rpx 40rpx 350rpx 40rpx;
+    box-sizing: border-box;
+    margin: 20rpx;
+    position: relative;
+    margin-top: -96rpx;
+    border-radius: 10rpx;
+}
+.user{
+    font-weight: bold;
+}
+.login .count{
+    margin-top: 80rpx;
+    font-size: 32rpx;
+}
+.login .write{
+    border-bottom: 2rpx solid #ccc;
+}
+.btn{
+    background-color: #fbbc17;
+    color: #fff;
+    width: 580rpx;
+    border: 0 !important;
+    margin-left: 30rpx;
+    border-radius: 60rpx;
+    position:absolute;
+    bottom: 120rpx;
+    height: 86rpx;text-align: center;
+    line-height: 86rpx;
+}

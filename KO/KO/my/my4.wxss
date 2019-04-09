@@ -1,0 +1,20 @@
+/* KO/my/my4.wxss */
+@import "../app.wxss";
+page{
+    background: #fafafa;
+}
+.fenlei{
+    position: relative;
+    background: #fff;
+    border-radius: 10rpx;
+    display: flex;
+    padding: 36rpx 0;
+    justify-content: space-around;
+    margin: 10rpx 40rpx 30rpx;
+    font-size: 20rpx;
+    columns: #2b2b2b;
+    text-align: center;
+}
+.itemImg1{width: 53rpx;height: 52rpx;}
+.itemImg2{width: 48rpx;height: 51rpx;}
+.itemImg3{width: 59rpx;height: 44rpx;}

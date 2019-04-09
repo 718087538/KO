@@ -1,0 +1,16 @@
+<!--KO/my/my6.wxml-->
+<view class='student'>
+    <image class='headImg' src='/KO/img/img.png'></image>
+    <view class='infos'>
+        <view class='name'>小布</view>
+        <view class='fans'>
+             <text>关注 100</text>
+             <text>粉丝 3</text>
+         </view>
+    </view>
+    <view class='like'>+ 关注</view>
+</view>
+
+<!-- 代号K56
+引入："my6":"/KO/my/my6" 
+-->

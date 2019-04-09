@@ -1,0 +1,37 @@
+/* KO/list/list13.wxss */
+
+.identy{
+    font-size: 36rpx;
+    vertical-align:middle;
+    margin-bottom: 30rpx;
+}
+
+.identy::before{
+    content: '';
+    width: 6rpx;
+    height: 36rpx;
+    background: #4bb5ff;
+    display: inline-block;
+    margin-right: 30rpx;
+    margin-left: 40rpx;
+    margin-bottom: -6rpx;
+}
+
+
+
+.li2{
+    padding: 0 40rpx;
+    display: flex;
+    justify-content: space-between;
+    height: 120rpx;
+    margin-bottom: 30rpx;
+    align-items: center;
+}
+.li2 .price{
+    font-size: 60rpx;
+    color: #da1b0d;
+}
+.li2 .intro{
+    font-size: 24rpx;
+    color: #6a6a6a;
+}

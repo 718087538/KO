@@ -1,0 +1,45 @@
+<!--KO/order/ order11.wxml-->
+ <view class="juan shadow">
+                <view class='juanInfo'>
+                    <view class='left'>
+                        <text class='icon'>￥</text>
+                        <text class='num'>50</text>
+                    </view>
+                    <view class='right'>
+                         <view class='liji'>立即使用</view>
+                        <view class='man'>- 满999减50 -</view>
+                    </view>
+                </view>
+
+                <view class='teacher'>
+                    <image class='teacherImg' src='/KO/img/img.png'></image>
+                    <view class='teacherName'>小颜老师</view>
+                    <view class='date'>2019/01/30 ——2019/02/28</view>
+                </view>
+            </view>
+
+
+<!-- ``````````````````````````````````````````` -->
+<view class="juan shadow">
+                <view class='juanInfo  lost'>
+                    <view class='left'>
+                        <text class='icon'>￥</text>
+                        <text class='num'>50</text>
+                    </view>
+                    <view class='right'>
+                         <view class='liji'>立即使用</view>
+                        <view class='man'>- 满999减50 -</view>
+                    </view>
+                </view>
+
+                <view class='teacher'>
+                    <image class='teacherImg' src='/KO/img/img.png'></image>
+                    <view class='teacherName'>小颜老师</view>
+                    <view class='date'>2019/01/30 ——2019/02/28</view>
+                </view>
+            </view>
+
+
+<!-- 代号K59
+引入："order11":"/KO/order/order11" 
+-->

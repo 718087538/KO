@@ -1,0 +1,14 @@
+<!--KO/title/title7.wxml-->
+<view class='bigBox'>
+
+    <view class='dengJi'>等级</view>
+    <view class='progress'>
+        <view class='progress-state'>学习小白</view>
+        <view class='progress-now'>已学习10课时</view>
+    </view>
+</view>
+
+
+<!-- 代号K54
+引入："title7":"/KO/title/title7" 
+-->

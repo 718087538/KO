@@ -1,6 +1,4 @@
 /* KO/tab/tab2.wxss */
-/* pages/buyer/buyIndex.wxss */
-
 .buyer-tab-btn{
   position: relative;
   width: 100%;
