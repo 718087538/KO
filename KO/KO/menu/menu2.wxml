@@ -1,0 +1,16 @@
+<!--KO/menu/menu2.wxml-->
+<view class='content'>
+    <block wx:for="{{items}}" wx:key>
+        <navigator url='{{item.href}}' class='item'>
+            <image class='itemImg' src='{{item.img}}'></image>
+            <view class='itemText'>{{item.text}}</view>
+        </navigator>
+    </block>
+</view>
+
+
+
+
+<!-- 代号K69
+引入："menu2":"/KO/menu/menu2" 
+-->

@@ -1,0 +1,13 @@
+<!--KO/button/btn6.wxml-->
+<view class='noBody'>
+   您还没建立团队和加入任何团队
+</view>
+ <button class="submit" type="submit">前往新建团队</button>
+
+
+<!--
+代号K77：
+引用："btn6":"/KO/button/btn6"
+使用：
+ -->
+

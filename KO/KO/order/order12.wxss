@@ -1,0 +1,39 @@
+/* KO/order/order12.wxss */
+
+.myMoney{
+    height: 132rpx;
+    padding: 0 40rpx;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top:2rpx solid rgba(74,78,255,0.03);
+    border-bottom: 2rpx solid rgba(74,78,255,0.03); 
+}
+.myMoney .left view:nth-child(1){
+    color: #2b2b2b;
+    font-size: 30rpx;
+}
+.myMoney .left view:nth-child(2){
+    color: red;
+    font-size: 48rpx;
+}
+.myMoney .right{
+    color: red;
+    font-size: 30rpx;
+    width:200rpx;
+    text-align:right;
+    line-height:80rpx;
+}
+.myMoney .right::after{
+    content: "";
+    display:inline-block;
+    width: 20rpx;
+    height: 20rpx;
+    background: transparent;
+    border-style:  solid;
+    border-color: #808080;
+    border-width: 2rpx 2rpx 0 0 ;
+    transform: rotate(45deg);
+    color: red;
+    font-size: 30rpx;
+}

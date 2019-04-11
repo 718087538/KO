@@ -1,0 +1,13 @@
+<!--KO/other/other4.wxml-->
+<view class='playBox'>
+    <image class='bigPlay' src='/KO/img/jjzb-img1@2x.png'></image>
+    <view class='sWindow'>
+        <image class='sPlay' src='/KO/img/jjzb-img2@2x.png'></image>
+    </view>
+    <image class='zan' src='/KO/img/jjzb-img4@2x.png'></image>
+</view>
+
+
+<!-- 代号K75
+引入： "other4":"/KO/other/other4"
+-->

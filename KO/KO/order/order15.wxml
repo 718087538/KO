@@ -1,0 +1,20 @@
+<!--KO/order/order15.wxml-->
+ <view class='goodItem'>
+                <image class='itemImg' src='/KO/img/img.png'></image>
+                <view class='right'>
+                    <view>课程：入门英语怎么学？</view>
+                    <view>语言的本质是一种被人使用的沟通系统, 包含声音，词汇语言的本质是一种被人使用的沟通系统, 包含声音，词汇</view>
+                    <view class='price'>￥328</view>
+                    <view class='time'>
+                        <text class='t1'>20分钟</text>
+                        <text>890人付款</text>
+                    </view>
+                </view>
+                <view class='numbers'>X1</view>
+                <view class="state">去开课</view>
+            </view>
+
+
+<!-- 代号K70
+引入："order15":"/KO/order/order15" 
+-->

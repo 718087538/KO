@@ -1,0 +1,14 @@
+<!--KO/my/my7.wxml-->
+<view class="container">
+    <view class="header">
+        <image class="headimg" src="/KO/img//img.png"></image>
+        <view class="name">I’m Hetty</view>
+        <view class="quit">
+            <image src="/KO/img//msg.png"></image>
+            <view class="msgs">8</view>
+        </view>
+    </view>
+</view>
+<!-- 代号K63
+引入："my7":"/KO/my/my7" 
+-->

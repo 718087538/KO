@@ -1,0 +1,61 @@
+/* KO/order/order15.wxss */
+
+
+.goodItem{
+    margin: 35rpx;
+    display: flex;
+    position: relative;
+}
+.goodItem .itemImg{
+    width: 170rpx;
+    height: 170rpx;
+    border-radius: 10rpx;
+    margin-right: 45rpx;
+}
+.goodItem .right{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.goodItem .right view:nth-child(1){
+    font-size: 30rpx;
+    width: 350rpx;
+}
+.goodItem .right view:nth-child(2){
+    font-size: 18rpx;
+    width: 370rpx;
+    color: rgba(55,55,55,0.7);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.goodItem .right view:nth-child(3){
+    font-size: 36rpx;
+    color: #da1b0d;
+}
+.goodItem .right view:nth-child(4){
+    font-size:20rpx;
+    color: #888;
+}
+.goodItem .right .time .t1{
+    font-size:20rpx;
+     color: #181818;
+    margin-right: 20rpx;}
+.numbers{
+    position: absolute;
+    right: 0;
+    top: 0rpx;
+    font-size: 30rpx;
+    color: #888;
+}
+.state{
+    position: absolute;
+    right: 0;
+    font-size: 28rpx;
+    color: #fff;
+    background: #4c8beb;
+    padding: 8rpx 20rpx;
+    display: block;
+    border-radius: 10rpx;
+    bottom: 0rpx;
+}

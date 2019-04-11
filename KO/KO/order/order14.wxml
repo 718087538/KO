@@ -1,0 +1,22 @@
+<!--KO/order/order14.wxml-->
+<view class='myDate'>
+    <view class='item'>
+        <view>成交</view>
+        <image src='/KO/img/wdgzt-img-cj@2x.png'></image>
+        <view class=''>5</view>
+    </view>
+    <view class='item'>
+        <view>成交</view>
+        <image src='/KO/img/wdgzt-img-cj@2x.png'></image>
+        <view class=''>5</view>
+    </view>
+    <view class='item'>
+        <view>成交</view>
+        <image src='/KO/img/wdgzt-img-cj@2x.png'></image>
+        <view class=''>5</view>
+    </view>
+</view>
+
+<!-- 代号K68
+引入："order14":"/KO/order/order14" 
+-->

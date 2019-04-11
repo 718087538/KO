@@ -1,0 +1,16 @@
+<!--KO/list/list14.wxml-->
+
+<view class="myOrder shadow ">
+    <view class="title work">
+        <view class="orderName">直播开课</view>
+        <navigator class="begin" url=''>直播开课</navigator>
+    </view>
+</view>
+
+
+
+<!--
+代号K67：
+引用："list14":"/KO/list/list14"
+使用：
+ -->

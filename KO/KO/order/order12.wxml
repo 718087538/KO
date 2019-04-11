@@ -1,0 +1,16 @@
+<!--KO/order/order12.wxml-->
+
+<view class='myMoney'>
+    <view class='left'>
+        <view>余额:</view>
+        <view>￥1200</view>
+    </view>
+    <navigator class='right'>
+        提现
+    </navigator>
+</view>
+
+
+<!-- 代号K65
+引入："order12":"/KO/order/order12" 
+-->
