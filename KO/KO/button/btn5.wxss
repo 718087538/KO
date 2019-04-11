@@ -1,0 +1,19 @@
+/* KO/button/btn5.wxss */
+.palyBox{
+    margin: 60rpx;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.palyBox .playItem{
+    width: 285rpx;
+    height: 285rpx;
+    display: block;
+    background: #4b90f6;
+    text-align: center;
+    line-height: 285rpx;
+    margin-bottom: 60rpx;
+    color: #fff;
+    font-size: 38rpx;
+    border-radius: 10rpx;
+}

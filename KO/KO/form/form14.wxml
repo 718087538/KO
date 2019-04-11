@@ -1,0 +1,9 @@
+<!--KO/form/form14.wxml-->
+<view class='infoBox'>
+    <view>团队介绍:</view>
+    <textarea class='infoArea' placeholder='请输入团队介绍...'></textarea>
+</view>
+
+<!-- 代号K79
+引入： "form14":"/KO/form/form14"
+-->

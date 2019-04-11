@@ -1,0 +1,38 @@
+/* KO/my/my7.wxss */
+.header{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 30rpx;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+.header .headimg{
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+  margin-right: 33rpx;
+}
+.header .name{
+  flex: 1;
+}
+.header .quit{
+    position: relative;
+  font-size: 24rpx;
+}
+.header .quit image{
+  width: 40rpx;
+  height: 42rpx;
+  display: block;
+  margin: auto;
+}
+.msgs{
+    background: #d30a10;
+    padding: 6rpx 10rpx;
+    border-radius: 50%;
+    position: absolute;
+    top: -16rpx;
+    color: #fff;
+    right: -16rpx;
+    font-size: 16rpx;
+}

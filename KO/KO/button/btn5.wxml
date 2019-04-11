@@ -1,0 +1,15 @@
+<!--KO/button/btn5.wxml-->
+<view class='palyBox'>
+    <navigator url='' class='playItem'>一对一直播</navigator>
+    <navigator url='' class='playItem'>一对多直播</navigator>
+    <navigator url='' class='playItem'>小团课直播</navigator>
+</view>
+
+<!--
+代号K72：
+引用："btn5":"/KO/button/btn5"
+使用：
+ -->
+
+
+

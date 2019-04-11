@@ -1,7 +1,7 @@
 // 定义一个标题和内容链接的数组
 var _Arry = [
     {title:'start', url: 'pages/start.html'},
-    {title:'title', url: 'pages/title.html'},
+    {title:'title', url: 'pages/title.html',class:"sel"},
     {title:'order', url: 'pages/order.html'},
     {title:'address', url: 'pages/address.html'},
     {title:'button', url: 'pages/button.html'},
@@ -13,5 +13,4 @@ var _Arry = [
     {title:'search', url: 'pages/search.html'},
     {title:'swiper', url: 'pages/swiper.html'},
     {title:'tab', url: 'pages/tab.html'},
-
 ];

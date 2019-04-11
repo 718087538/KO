@@ -1,0 +1,18 @@
+/* KO/form/form13.wxss */
+.teamName{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40rpx;
+}
+.teamName .name{
+    font-size: 30rpx;
+}
+.teamName .teamInfo{
+    width: 530rpx;
+    border-radius: 10rpx;
+    height: 70rpx;
+    padding: 0 14rpx;
+    font-size: 28rpx;
+    border: 2rpx solid #4b90f6;
+}

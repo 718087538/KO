@@ -1,0 +1,22 @@
+/* KO/form/form12.wxss */
+.inputBox .title{
+    text-align: center;
+    width: 670rpx;
+    margin: 100rpx auto 0 ;
+    padding-bottom: 20rpx;
+    border-bottom:2rpx solid #4b90f6; 
+}
+
+.inputGroup{
+    display: flex;
+    width: 350rpx;
+    justify-content: space-between;
+    margin: 100rpx auto;
+}
+.inputGroup .psw{
+    width: 72rpx;
+    height: 72rpx;
+    border: 2rpx solid #4b90f6;
+    border-radius:10rpx; 
+    text-align: center;
+}

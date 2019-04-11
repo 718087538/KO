@@ -1,0 +1,18 @@
+<!--KO/list/list15.wxml-->
+<view class='teamBox'>
+<block wx:for="{{team}}" wx:key>
+ <view class='teams'>
+    <image src='/KO/img/img.png'></image>
+    <view>团长</view>
+    <view>我是用户</view>
+    <navigator url=''>申请进团</navigator>
+ </view>
+</block>
+ </view>
+
+
+ <!--
+代号K76：
+引用："list15":"/KO/list/list15"
+使用：
+ -->

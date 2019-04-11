@@ -1,0 +1,21 @@
+/* KO/menu/menu2.wxss */
+
+.content{
+    padding: 55rpx 80rpx;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.item{
+    text-align: center;
+    width: 166rpx;
+}
+.itemImg{
+    width: 66rpx;
+    height: 66rpx;
+    margin: 0 auto;
+}
+.itemText{
+    font-size: 20rpx;
+    margin: 20rpx 0;
+}

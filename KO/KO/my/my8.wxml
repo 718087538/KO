@@ -1,0 +1,20 @@
+<!--KO/my/my8.wxml-->
+<view class='head'>
+    <image class='headImg' src='/KO/img/img.png' bindtap='ziLiao'></image>
+    <view>
+    <view class='name' bindtap='ziLiao'>小布小布</view>
+    <view class='head-l2'>你还没开通会员</view>
+    <view class='head-l3' bindtap='honor'>
+        <text class='head0-l3-t1'>学习小白</text>
+        <image class="jiang" src='/KO/img/my-icon-xz@2x.png'></image>
+        <text class='head0-l4-t1'>学习<text class='num'>10</text>小时</text>
+    </view>
+    </view>
+    <image class="msgImg" src="/KO/img/my-icon-xiaoxi@2x.png" alt=""></image>
+    <image class="sheImg" src="/KO/img/my-icon-sz@2x.png" alt="" bindtap='shezhi'></image>
+    <view class="msgs">8</view>
+</view>
+
+<!-- 代号K64
+引入："my8":"/KO/my/my8" 
+-->

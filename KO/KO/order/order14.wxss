@@ -1,0 +1,25 @@
+/* KO/order/order14.wxss */
+
+.myDate{
+    margin: 20rpx 40rpx 70rpx;
+    display: flex;
+    justify-content: space-between;
+}
+.myDate .item image{
+    width: 214rpx;
+    height: 163rpx;
+}
+.myDate .item{
+    width: 214rpx;
+    position: relative;
+    text-align: left;
+}
+.myDate .item view:nth-child(3){
+    position: absolute;
+    top: 64rpx;
+    font-size: 60rpx;
+    left: 20rpx;
+}.myDate .item view:nth-child(1){
+    font-size: 30rpx;
+    margin-bottom: 20rpx;
+}

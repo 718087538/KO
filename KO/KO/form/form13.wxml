@@ -1,0 +1,11 @@
+<!--KO/form/form13.wxml-->
+<view class='teamName'>
+    <view class='name'>群名：</view>
+    <input class='teamInfo' type='text' placeholder='请输入团队介绍...'></input>
+</view>
+
+
+
+<!-- 代号K78
+引入： "form13":"/KO/form/form13"
+-->

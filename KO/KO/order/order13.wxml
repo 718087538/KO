@@ -1,0 +1,27 @@
+<!--KO/order/order13.wxml-->
+
+<view class='faBuBox shadow'>
+    <navigator class='manage'>
+        <image class='manageImg' src='/KO/img/wdgzt-icon-zzj@2x.png'></image>
+        <view class='name'>保证金管理</view>
+        <view class='text'>查看</view>
+    </navigator>
+
+    <view class='show one'>
+        <view class='num'>5</view>
+        <view class='name'>发布课程</view>
+        <view class='text'>发布</view>
+    </view>
+
+    <view class='show'>
+        <view class='num'>5</view>
+        <view class='name'>发布课程</view>
+        <view class='text'>发布</view>
+    </view>
+</view>
+
+
+
+<!-- 代号K66
+引入："order13":"/KO/order/order13" 
+-->

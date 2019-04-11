@@ -1,0 +1,63 @@
+/* KO/my/my8.wxss */
+.head{
+    height: 240rpx;
+    padding: 20rpx 40rpx;
+    display: flex;
+    position: relative;
+    background: url("https://upload-images.jianshu.io/upload_images/14707256-67a33e9968cba476.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/750/format/webp");
+}
+.headImg{
+    width: 94rpx;
+    height: 94rpx;
+    border-radius: 50%;
+    margin-right: 24rpx;
+}
+.msgImg{position: absolute;
+    top:20rpx;
+    right: 112rpx;
+    width: 44rpx;
+    height: 36rpx;
+}
+.sheImg{position: absolute;
+    top:20rpx;
+    right: 44rpx;
+    width: 41rpx;
+    height: 37rpx;
+}
+.msgs{
+    background: #d30a10;
+    padding: 6rpx 10rpx;
+    border-radius: 50%;
+    position: absolute;
+    top: 0rpx;
+    color: #fff;
+    right: 98rpx;
+    font-size: 16rpx;
+}
+
+
+
+
+
+
+
+
+
+.name{font-size: 30rpx}
+.head-l2{font-size: 16rpx;color: #808080}
+.head0-l3-t1{
+    font-size: 18rpx;color:#d8160e;
+    border-radius: 10rpx;
+    border: 2rpx solid #d8160e;
+    padding: 6rpx 15rpx;
+}
+.jiang{
+    width: 40rpx;
+    height: 52rpx;
+    margin-left: 10rpx;
+}
+.head-l3{display: flex;align-items: center;margin-top: 10rpx;}
+.head0-l4-t1{font-size: 20rpx;margin-left: -15rpx}
+.head0-l4-t1 .num{font-size: 30rpx;
+    color: #d30a10;
+font-weight: bold}

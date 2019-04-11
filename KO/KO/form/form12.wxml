@@ -1,0 +1,19 @@
+<!--KO/form/form12.wxml-->
+<view class='inputBox'>
+    <input class='title' type='text' placeholder='请输入直播间名称'></input>
+</view>
+
+<form>
+    <view class='inputGroup'>
+        <input class='psw' type='text' maxlength='1'></input>
+        <input class='psw' type='text' maxlength='1'></input>
+        <input class='psw' type='text' maxlength='1'></input>
+        <input class='psw' type='text' maxlength='1'></input>
+    </view>
+
+</form>
+
+
+<!-- 代号K74
+引入： "form12":"/KO/form/form12"
+-->

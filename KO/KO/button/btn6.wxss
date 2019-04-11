@@ -1,0 +1,13 @@
+/* KO/button/btn6.wxss */
+.noBody{
+    font-size: 30rpx;
+    text-align: center;
+    margin-top: 140rpx;
+}
+.submit{
+    width: 670rpx;
+    color: #fff;
+    background: #4b90f6;
+    border-color: #4b90f6;
+    margin-top: 165rpx;
+}
