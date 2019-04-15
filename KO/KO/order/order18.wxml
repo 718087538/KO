@@ -1,0 +1,19 @@
+<!--KO/order/order18.wxml-->
+<view class='classBox'>
+    <block wx:for="{{class}}" wx:key>
+        <view class='item'>
+            <image class='classImg' src='/KO/img/img.png'></image>
+            <view class='title'>带你走进声乐</view>
+            <view class='date'>2015-2018法国里昂2015-2018法国里昂</view>
+            <view class='number'>
+                <view>
+                    <image src='/KO/img/img.png'></image>
+                    <text>用户姓名</text>
+                </view>
+                <text>890人付款</text>
+            </view>
+        </view>
+    </block>
+</view>
+
+<!-- K88 -->

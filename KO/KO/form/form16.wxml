@@ -1,0 +1,8 @@
+<!--KO/form/form16.wxml-->
+<view class='upBox'>
+    <image src='/KO/img/z1.png'></image>
+    <image src='/KO/img/z2.png'></image>
+    <image src='/KO/img/z3.png'></image>
+</view>
+
+<!-- K92 -->

@@ -1,0 +1,13 @@
+<!--KO/list/list18.wxml-->
+ <view class='teams'>
+    <view>我是用户我是用户我是用户</view>
+    <navigator url=''>进行中</navigator>
+ </view>
+
+
+
+ <view class='teams'>
+    <view>我是用户我是用户我是用户</view>
+    <navigator class='over' url=''>已结束</navigator>
+ </view>
+   <!--代号K83-->

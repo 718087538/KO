@@ -1,4 +1,4 @@
-/* pages/my/youHuijuan.wxss */
+/* KO/tab/tab4.wxss */
 .buyer-tab-btn{
   position: relative;
   width: 100%;
@@ -6,7 +6,7 @@
   height: 68rpx;
   background-color: #fff;
   display: flex;
-  padding: 10rpx 35rpx 0;
+  padding: 10rpx 200rpx 0;
   box-sizing: border-box;
   font-size: 24rpx;
   color: #333;
@@ -14,7 +14,9 @@
   z-index: 10;
   justify-content: space-between;
 }
-
+.buyer-tab-btn view.on{
+    color: #4c8beb;
+}
 .buyer-tab-btn view.on::after{
   content: "";
     margin: 10rpx auto 0;

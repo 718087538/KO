@@ -1,0 +1,32 @@
+/* KO/list/list18.wxss */
+
+.teamBox{
+    margin-top: 60rpx;
+}
+.teams{
+    display: flex;
+    align-items: center;
+    height:55rpx;
+    padding: 0 40rpx;
+}
+
+.teams view:nth-child(1){
+    font-size: 30rpx;
+    color: #333;
+    flex: 1;
+}
+.teams navigator{
+    font-size:24rpx;
+    width: 130rpx;
+    display: block;
+    height: 50rpx;
+    border-radius: 10rpx;
+    line-height: 50rpx;
+    text-align: center;
+    color: #fff;
+    padding: 0 18rpx;
+    background: #4b90f6;
+}
+.over{
+    background: #C0C0C0 !important;
+}

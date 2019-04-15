@@ -1,0 +1,10 @@
+<!--KO/button/btn7.wxml-->
+<view class='bottom'>
+    <view>退出此团</view>
+    <view>取消</view>
+</view>
+
+
+<!--
+代号K82：
+ -->

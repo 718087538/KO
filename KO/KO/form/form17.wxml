@@ -1,0 +1,19 @@
+<!--KO/form/form17.wxml-->
+
+<view class='teamName'>
+    <view class='name'>证书名称<text class='must'>*</text></view>
+    <input class='teamInfo' type='text' placeholder='请输入证书名称'></input>
+</view>
+
+
+<view class='infoBox'>
+    <view class='name'>证书介绍<text class='must'>*</text></view>
+    <textarea class='infoArea' placeholder='请输入证书介绍'></textarea>
+</view>
+
+<view class='zhengBox'>
+    <view class='Zinfo name'>证书介绍<text class='must'>*</text></view>
+    <image class='Zpic' src='/KO/img/tp-tianjiaanniu@2x.png'></image>
+    </view>
+
+<!-- K93 -->

@@ -1,4 +1,5 @@
-/* KO/order/order10.wxss */
+/* KO/order/order18.wxss */
+
 .classBox{
     margin: 0 40rpx;
     display: flex;
@@ -34,12 +35,22 @@
     margin-top: 20rpx;
     align-items: center;
 }
-.classBox .number text:nth-child(1){
-   font-size: 48rpx;
-   color: #da1b0d;
+.classBox .number view:nth-child(1) text{
+   font-size: 24rpx;
+   color: #575757;
+   margin-left: 10rpx;
+}
+.classBox .number view:nth-child(1){
+align-items: center;
+display: flex;
+}
+.classBox .number view:nth-child(1) image{
+    width: 42rpx;
+    height: 42rpx;
+    border-radius: 50%;
 }
 .classBox .number text:nth-child(2){
-   font-size: 30rpx;
+   font-size:20rpx;
    color: #a6a6a6;
 }
 .haoPing{

@@ -1,0 +1,11 @@
+<!--KO/order/order17.wxml-->
+ <view class='payBox'>
+    <view class='pay'>
+        <view class='p1'>请支付名片费用</view>
+        <view class='p2'>￥10</view>
+        <view class='p3'>立即支付</view>
+        <image class='close' src='/KO/img/close.png'></image>
+    </view>
+ </view>
+
+ <!-- K86 -->

@@ -1,0 +1,13 @@
+<!--KO/list/list17.wxml-->
+<view class='teamBox ask'>
+ <view class='teams'>
+    <image src='/KO/img/add.png'></image>
+    <view>添加成员</view>
+    <navigator url=''>邀请进团</navigator>
+ </view>
+ </view>
+
+
+  <!--
+代号K81：
+ -->

@@ -1,0 +1,13 @@
+/* KO/title/title9.wxss */
+
+.agree{
+    padding:  0 40rpx;
+    display: flex;
+    align-items: center;
+    font-size: 30rpx;
+}
+.agree navigator{
+    color: red;
+}
+
+/* K94 */

@@ -1,0 +1,10 @@
+/* KO/button/btn8.wxss */
+.add{
+    width: 85rpx;
+    height: 85rpx;
+    border-radius: 50%;
+    position:fixed;
+    bottom: 30rpx;
+    left: 50%;
+    transform: translateX(-50%);
+}

@@ -1,0 +1,4 @@
+<!--KO/title/title9.wxml-->
+<view class='agree'>
+    <radio style='transform:scale(0.7)'></radio><text>我同意</text><navigator>《xx协议》</navigator>
+    </view>

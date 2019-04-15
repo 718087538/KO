@@ -1,0 +1,17 @@
+/* KO/title/title10.wxss */
+.goOn{
+    font-size: 30rpx;
+    margin: 40rpx;
+}
+.goOn::after{
+    width: 14rpx;
+    height: 14rpx;
+    content: "";
+    display: inline-block;
+    background: transparent;
+    border: 2rpx solid #808080;
+    border-width: 0 2rpx 2rpx 0;
+    transform: rotate(45deg); 
+    margin-left: 20rpx;
+    margin-bottom: 8rpx;
+}
