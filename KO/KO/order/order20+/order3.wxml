@@ -1,0 +1,21 @@
+<!--KO/order/order20+/order3.wxml-->
+
+<view class='imgBox'>
+    <image class='img1' src='/KO/img/img.png'></image>
+    <view class='imgBox2'>
+        <image class='img2' src='/KO/img/img.png'></image>
+        <image class='img3' src='/KO/img/img.png'></image>
+    </view>
+</view>
+
+<view class='textInfo'>
+    <text>想要白皙透亮零毛孔少女肌?还是明眸大眼、调节肤色、磨皮美白、祛斑祛痘、
+淡化黑眼圈、高挺鼻梁、立体V脸、牙齿美白、柔顺发丝、素颜上妆、美腿瘦
+身、拉长腿部线条、缩小鼻翼、高级柔焦?</text>
+
+ <text>想要白皙透亮零毛孔少女肌?还是明眸大眼、调节肤色、磨皮美白、祛斑祛痘、
+淡化黑眼圈、高挺鼻梁、立体V脸、牙齿美白、柔顺发丝、素颜上妆、美腿瘦
+身、拉长腿部线条、缩小鼻翼、高级柔焦?</text>
+</view>
+
+<!-- K107 -->

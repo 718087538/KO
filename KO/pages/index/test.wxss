@@ -1,0 +1,5 @@
+/* pages/index/test.wxss */
+.clicks{
+    color: red;
+    font-size: 100rpx;
+}

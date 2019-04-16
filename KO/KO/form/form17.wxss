@@ -99,3 +99,7 @@
 .zhengBox{
     padding: 40rpx;
 }
+.name .must{
+    color: red;
+    margin-right: 10rpx;
+}

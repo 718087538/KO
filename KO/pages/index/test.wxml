@@ -1,0 +1,12 @@
+<!--pages/index/test.wxml-->
+
+<view style='margin-bottom:50rpx;'>给循环的内容添加点击事件</view>
+<view class="top2">
+    <view class="listitem" wx:for="{{datas}}" wx:key="{{index}}">
+
+        <view class='{{isSelect==item.id? "toplists clicks": "toplists"}}'data-id="{{item.id}}" bindtap="select">
+            {{item.integral}}积分
+        </view>
+
+    </view>
+</view>
