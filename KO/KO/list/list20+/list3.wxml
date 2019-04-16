@@ -1,0 +1,18 @@
+<!--KO/list/list20+/list3.wxml-->
+<block wx:for="{{newss}}" wx:key>
+        <view class='newsBox'>
+            <view class='line2'>
+                <image class='line2Img' src='/KO/img/img.png'></image>
+                <view class='line2Name'>小颜教练·健身</view>
+            </view>
+            <view class='textInfo'>
+                双轮健腹器。锻炼的时候双膝跪地，双手持把手，把腹肌轮置于身 体前侧。向前滚轮，而后运用腹部力量回归原位也可站立进行，不 过此种难度较大。
+            </view>
+            <view class='zan'>
+                <image class='zImg' src='/KO/img/my-dt-icon-dianzan-dor@2x.png'></image>
+                <view>1025</view>
+            </view>
+        </view>
+</block>
+
+<!-- K99 -->

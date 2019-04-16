@@ -3,16 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0f1cb417-f0ec-4835-8613-af17b40b5cd7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/button/btn6.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/KO/KO/button/btn6.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/order/order10.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/KO/KO/order/order10.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KO/KO/tab/tab3.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/KO/KO/tab/tab3.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KO/KO/form/form17.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/KO/KO/form/form17.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KO/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/KO/project.config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/button.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/button.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/order.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/tab.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/tab.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/title.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/title.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,7 +41,7 @@
       <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
+            <state relative-caret-position="414">
               <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
               <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
             </state>
@@ -68,8 +60,8 @@
       <file leaf-file-name="title.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/title.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+            <state relative-caret-position="324">
+              <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -175,8 +167,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="337" />
-    <option name="y" value="114" />
+    <option name="x" value="523" />
+    <option name="y" value="76" />
     <option name="width" value="1432" />
     <option name="height" value="809" />
   </component>
@@ -203,18 +195,6 @@
             <path>
               <item name="KO" type="b2602c69:ProjectViewProjectNode" />
               <item name="KO" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="tab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KO" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="title" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KO" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -232,7 +212,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KASON2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
@@ -305,16 +285,16 @@
       <workItem from="1554951157147" duration="848000" />
       <workItem from="1554954939298" duration="30000" />
       <workItem from="1555057022923" duration="8000" />
-      <workItem from="1555308466148" duration="144000" />
+      <workItem from="1555308466148" duration="356000" />
+      <workItem from="1555314507346" duration="58000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45178000" />
+    <option name="totallyTimeSpent" value="45448000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="337" y="114" width="1432" height="809" extended-state="0" />
-    <editor active="true" />
+    <frame x="523" y="76" width="1432" height="809" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2087518" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -323,7 +303,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32938388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28173375" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2812983" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -652,7 +632,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="414">
           <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
           <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
         </state>
@@ -684,8 +664,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/title.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        <state relative-caret-position="324">
+          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
         </state>
       </provider>
     </entry>

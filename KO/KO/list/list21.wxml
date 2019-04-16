@@ -1,0 +1,31 @@
+<!--KO/list/list21.wxml-->
+<view class="container">
+  <view class="item flex-box">
+    <view class="head">布呤</view>
+    <view class="flex-col">
+      <view class="top flex-box">
+        <view class="name flex-col">布呤平台</view>
+        <view class="time">2小时前</view>
+      </view>
+      <view class="bot flex-box">
+        <view class="flex-col">学员<text decode='{{true}}'>您预约2019-09-04 &nbsp;&nbsp; 21:00上课的英语课</text>，请留意上课时间请留意上课时间请留意上课时间</view>
+        <view class="nums">1</view>
+      </view>
+    </view>
+  </view>
+  <view class="item flex-box">
+    <view class="head">布呤</view>
+    <view class="flex-col">
+      <view class="top flex-box">
+        <view class="name flex-col">布呤平台</view>
+        <view class="time">2小时前</view>
+      </view>
+      <view class="bot flex-box">
+        <view class="flex-col"><text decode='{{true}}'>您预约2019-09-04 &nbsp;&nbsp; 21:00上课的英语课</text>，请留意上课时间</view>
+      </view>
+    </view>
+  </view>
+</view>
+
+
+<!-- K95 -->

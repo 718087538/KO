@@ -1,0 +1,17 @@
+/* KO/list/list20+/list4.wxss */
+.box{
+    margin: 26rpx 40rpx;
+}
+.box .title{
+    font-size: 30rpx;
+}
+.box .mainImg{
+    width: 514rpx;
+    height: 190rpx;
+    margin: 20rpx 0;
+    border-radius: 10rpx;
+}
+.box .info{
+    font-size: 18rpx;
+    color: #808080;
+}
