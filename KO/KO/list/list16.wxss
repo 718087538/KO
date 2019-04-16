@@ -1,0 +1,16 @@
+/* KO/list/list16.wxss */
+
+.people{
+    height: 100rpx;
+    padding: 0 40rpx;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    border: 2rpx solid #fafafa;
+    border-width:2rpx 0; 
+    font-size: 28rpx;
+}
+.people .state{
+    font-weight: bold;
+    color: #4b90f6;
+}

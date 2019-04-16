@@ -1,0 +1,44 @@
+
+.box{
+    margin: 20rpx;
+    padding: 20rpx;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #fff;
+}
+.goods{
+    position: relative;
+    width: 320rpx;
+    margin-bottom: 30rpx;
+}
+.goods-img{
+    width: 320rpx;
+    height: 320rpx;
+}
+.goods-title{
+    font-size: 24rpx;
+}
+
+.money{
+    margin-top: 10rpx;
+    font-size: 24rpx;
+    color: #eb0b0b;
+}
+.num,.ren{
+font-size: 24rpx;
+color: #737373;
+}
+.btn{
+    position:absolute;
+    right: 0;
+    bottom: 0;
+    font-size: 30rpx;
+    padding: 0 18rpx;
+    border-radius: 10rpx;
+    color: #fff;
+    background: #4b90f6;
+}
+.toued{
+    background: #bfbfbf ;
+}

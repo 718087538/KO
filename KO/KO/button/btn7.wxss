@@ -1,0 +1,30 @@
+/* KO/button/btn7.wxss */
+
+.bottom{
+    position: fixed;
+    height: 100rpx;
+    display: flex;
+    width: 100%;
+    bottom: 0;
+    align-items: center;
+    font-size: 36rpx;
+}
+.bottom view:nth-child(1){
+    flex: 1;
+    height: 100rpx;
+    line-height: 100rpx;
+    padding-right: 50rpx;
+    font-size: 30rpx;
+    color: #a0a0a0;
+    text-align: right;
+    border-top: 1rpx solid #fafafa;
+    background: #fff;
+}
+.bottom view:nth-child(2){
+    width: 255rpx;
+    height: 100rpx;
+    line-height: 100rpx;
+    text-align: center;
+    color: #6b6b6b;
+    background: #dcdcdc;
+}

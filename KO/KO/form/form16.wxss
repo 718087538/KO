@@ -1,0 +1,13 @@
+/* KO/form/form16.wxss */
+
+.upBox{
+    display: flex;
+    padding: 20rpx 40rpx;
+    box-sizing: border-box;
+    width:750rpx;
+    justify-content: space-between;
+}
+.upBox image{
+    width:216rpx;
+    height: 228rpx;
+}

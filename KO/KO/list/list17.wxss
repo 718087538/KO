@@ -1,0 +1,42 @@
+/* KO/list/list17.wxss */
+
+.teamBox{
+    margin-top: 60rpx;
+}
+.teams{
+    display: flex;
+    align-items: center;
+    height: 120rpx;
+    padding: 0 40rpx;
+    border-bottom: 2rpx solid #fafafa;
+}
+.teams image{
+    width: 80rpx;
+    height: 80rpx;
+    border-radius: 50%;
+    margin-right: 26rpx;
+}
+
+.teams view:nth-child(2){
+    font-size: 30rpx;
+    color: #333;
+    flex: 1;
+}
+.teams navigator{
+    font-size:24rpx;
+    width: 130rpx;
+    display: block;
+    height: 50rpx;
+    border-radius: 10rpx;
+    line-height: 50rpx;
+    text-align: center;
+    color: #fff;
+    padding: 0 18rpx;
+    background: #4b90f6;
+}
+.tuanZ{
+    color: #4b90f6 !important;
+}
+.ask{
+    margin-top: 0
+}

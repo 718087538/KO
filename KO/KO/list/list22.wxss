@@ -1,0 +1,21 @@
+/* KO/list/list22.wxss */
+.myOrder{
+    margin: 14px 0rpx;
+    background: #fff;
+}
+.myOrder .title{
+    display: flex;
+    padding:10rpx 30rpx;
+    justify-content: space-between;
+    height: 100rpx;
+    align-items: center;
+    border-bottom: 1px solid #eee;
+}
+.myOrder .title .orderName::before{
+    content: '';
+    width: 5rpx;
+    height: 32rpx;
+    display: inline-block;
+    background: #4bb5ff;
+    margin-right: 30rpx;
+}

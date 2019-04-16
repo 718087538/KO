@@ -1,0 +1,9 @@
+<!--KO/list/list16.wxml-->
+<view class='people'>
+    <view class='numbers'>成员(3)</view>
+    <view class='state'>完成</view>
+</view>
+
+ <!--
+代号K80：
+ -->

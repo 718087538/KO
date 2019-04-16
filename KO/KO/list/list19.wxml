@@ -1,0 +1,13 @@
+<!--KO/list/list19.wxml-->
+<view class='titleBox'>
+    <view   class='left'>
+        <view>练习腹肌怎么奥斯卡大家？</view>
+        <view class='date'>2019-2-9</view>
+    </view>
+
+    <view class='right'>
+        890人报名
+    </view>
+</view>
+
+<!-- K84 -->

@@ -1,0 +1,27 @@
+/* KO/list/list19.wxss */
+.titleBox{
+    font-size: 24rpx;
+    padding: 0 40rpx;
+    display: flex;
+    justify-content: space-between;
+}
+ 
+.titleBox{
+    font-size: 24rpx;
+    padding: 0 40rpx;
+    display: flex;
+    justify-content: space-between;
+}
+.titleBox .right{
+    color: #da1b0d;
+}
+.titleBox .date{
+    color: #c2c2c2;
+    font-size: 20rpx;
+}
+
+.info{
+    font-size: 24rpx;
+    color: #777;
+    padding: 30rpx 40rpx 0;
+}

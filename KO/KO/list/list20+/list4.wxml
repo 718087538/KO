@@ -1,0 +1,9 @@
+<!--KO/list/list20+/list4.wxml-->
+<view class='box'>
+    <view class='title'>练习腹肌怎样练才又快又见效？</view>
+    <image class='mainImg' src='/KO/img/ztxq-ing1@2x.png'></image>
+    <view class='info'>双轮健腹器。锻炼的时候双膝跪地，双手持把手，把腹肌轮置于身体前侧。向前滚
+轮，而后运用腹部力量回归原位也可站立进行，不过此种难度较大。</view>
+</view>
+
+<!-- K100 -->

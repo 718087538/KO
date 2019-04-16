@@ -1,0 +1,23 @@
+<!-- /KO/order/order16 -->
+<view class='box'>
+
+<block wx:for="{{goods}}" wx:key>
+    <view class='goods'>
+        <image class='goods-img' src='/KO/img/img.png'></image>
+
+        <view class='goods-title'>练习腹肌怎样练才又快又见</view>
+
+        <view class='money'>投票数:414</view>
+        <view class='num'>点击量:414</view>
+        <view class='ren'>人气值:414</view>
+        <view class='btn {{item.class}}'>投票</view>
+    </view>
+
+</block>
+</view>
+
+
+
+<!-- 代号K85
+引入："order16":"/KO/order/order16" 
+-->

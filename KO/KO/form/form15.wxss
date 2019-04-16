@@ -1,0 +1,35 @@
+/* KO/form/form15.wxss */
+.inBox{
+    width: 670rpx;
+    height: 238rpx;
+    /* margin: -150rpx auto 0; */
+    margin: 0 auto;
+    border-radius: 10rpx;
+    background: #fff;
+    padding: 36rpx 33rpx;
+    box-sizing: border-box;
+}
+.reallyName{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40rpx;
+}
+.name{
+    margin-right: 20rpx;
+    font-size: 28rpx;
+}
+.name .must{
+    color: #db2519;
+}
+
+
+.reallyName input{
+    border: 1rpx solid #5ba8fa;
+    padding:0  20rpx;
+    flex: 1;
+    box-sizing: border-box;
+    height: 70rpx;
+    line-height: 70rpx;
+    border-radius: 10rpx;
+    font-size: 24rpx;
+}

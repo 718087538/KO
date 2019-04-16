@@ -1,0 +1,13 @@
+<!--KO/button/btn9.wxml-->
+<view class='msgBg'>
+    <view class='content'>
+        <view class='info'>学生<text class='userName'>孙悟空</text>向你发起了大众评审</view>
+        <navigator url='' class='go'>前往处理</navigator>
+    </view>
+</view>
+
+
+
+
+
+<!-- K96 -->

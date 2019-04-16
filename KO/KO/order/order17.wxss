@@ -1,0 +1,44 @@
+/* KO/order/order17.wxss */
+.payBox{
+    width: 750rpx;
+    height: 1435rpx;
+    background: rgba(0, 0, 0,0.3);
+    top: 0;
+    position: fixed;
+    z-index: 3;
+}
+.payBox .pay{
+    width: 600rpx;
+    position: relative;
+    height: 320rpx;
+    text-align: center;
+    margin: 360rpx auto 0;
+    background: #fff;
+    overflow: hidden;
+    box-sizing: border-box;
+    border-radius: 10rpx;
+}
+.payBox .pay .p1{
+    font-size: 28rpx;
+    margin: 60rpx auto 30rpx;
+}
+.payBox .pay .p2{
+    font-size: 48rpx;
+    margin: 0rpx auto 30rpx;
+    color: #eb0b0b;
+}
+.payBox .pay .p3{
+    width: 260rpx;
+    height: 70rpx;
+    line-height: 70rpx;
+    border-radius: 10rpx;
+    font-size: 36rpx;
+    margin: 0rpx auto 30rpx;
+    color: #fff;
+    background: #4b90f6;
+}
+.payBox .pay .close{
+    width: 40rpx;
+    height: 40rpx;
+    position: absolute;top: 10rpx;right: 10rpx;
+}

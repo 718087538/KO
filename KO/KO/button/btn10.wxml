@@ -1,0 +1,11 @@
+<!--KO/button/btn10.wxml-->
+<view style='text-align:center;width:750rpx;'>在文档的结尾处</view>
+
+
+
+ <button class="submit" type="submit">提交</button>
+
+
+
+ 
+ <!-- K97 -->

@@ -1,0 +1,21 @@
+<!--KO/form/form15.wxml-->
+<view class='inBox shadow'>
+    <view class='reallyName'>
+        <view class='name'>
+            <text class="must">*</text>
+            <text>真实姓名</text>
+        </view>
+        <input class='inName' placeholder='请输入真实姓名'></input>
+    </view>
+
+        <view class='reallyName'>
+        <view class='name'>
+            <text class="must">*</text>
+            <text>身份证号</text>
+        </view>
+        <input class='inName' placeholder='请输入身份证号'></input>
+    </view>
+</view>
+
+
+<!-- K91 -->

@@ -1,5 +1,4 @@
 /* KO/order/order10.wxss */
-/* 具体课程 */
 .classBox{
     margin: 0 40rpx;
     display: flex;
