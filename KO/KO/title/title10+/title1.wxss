@@ -1,0 +1,18 @@
+/* KO/title/title10+/title1.wxss */
+
+.time{
+    padding:  0 40rpx;
+    display: flex;
+    align-items: center;
+    font-size: 24rpx;
+}
+.time .img1{
+    margin: 0 10rpx;
+    width: 30rpx;
+    height: 32rpx;
+}
+.time .img2{
+    width: 29rpx;
+    margin:0  10rpx 0 30rpx;
+    height: 30rpx;
+}

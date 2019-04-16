@@ -1,0 +1,26 @@
+/* KO/list/list20+/list5.wxss */
+.adBox{
+    width: 670rpx;
+    height: 286rpx;
+    margin: 40rpx;
+}
+.adImg{
+    width: 670rpx;
+    height: 216rpx;
+}
+.diff{
+    height: 64rpx;
+    line-height: 64rpx;
+    text-align: center;
+    border-width: 1rpx;
+    font-size: 30rpx;
+    border-style: solid;
+    border-color: #4b90f6;
+}
+.adBox2{
+    width: 670rpx;
+    margin: 40rpx;
+}
+.adImg2{
+    width: 100%;
+}

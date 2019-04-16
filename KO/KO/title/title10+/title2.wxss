@@ -1,0 +1,8 @@
+/* KO/title/title10+/title2.wxss */
+.topImg{
+    display: block;
+    width: 670rpx;
+    height: 176rpx;
+    border-radius: 10rpx;
+    margin: 0 auto 40rpx;
+}

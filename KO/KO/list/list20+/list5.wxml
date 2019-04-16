@@ -1,0 +1,7 @@
+<!--KO/list/list20+/list5.wxml-->
+<view class='adBox2'>
+    <view class='diff'>详情页定制</view>
+    <image class='adImg2'  src='/KO/img/gxzx-img-banner4@2x.png'></image>
+</view>
+
+<!-- K101 -->
