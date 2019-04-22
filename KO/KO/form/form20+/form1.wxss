@@ -1,0 +1,38 @@
+/* KO/form/form20+/form1.wxss */
+
+.box{
+    margin: 40rpx;
+}
+.line{
+display: flex;
+position: relative;
+color: #5b5b5b;
+}
+.line .title{
+    margin-right: 50rpx;
+    margin-bottom: 30rpx;
+}
+.line input{
+    border: 1rpx solid #7eacf0;
+    width: 156rpx;
+    padding-left: 20rpx;
+    height: 60rpx;
+    border-radius: 10rpx;
+    color: #333;
+}
+.line .price{
+    padding-left: 40rpx;
+}
+.line .price2{
+    position: absolute;
+    left: 130rpx;
+    height: 60rpx;
+    line-height: 60rpx;
+    color: #b1b1b1;
+}
+.line .jianGe{
+    margin: 0 20rpx;
+}
+.line .man{
+    margin-left: 0;
+}

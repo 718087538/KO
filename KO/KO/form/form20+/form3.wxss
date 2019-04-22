@@ -1,0 +1,43 @@
+/* KO/form/form20+/form3.wxss */
+.price2{
+    position: absolute;
+    left: 208rpx;
+    height: 60rpx;
+    line-height: 60rpx;
+    color: #b1b1b1;
+}
+.jiage2{
+    padding-left:50rpx !important;
+}
+#info{
+    color: #ababab;
+    font-size: 18rpx;
+    text-align: center;
+}
+
+
+.teamName{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40rpx;
+}
+.teamName .name{
+    font-size: 30rpx;
+}
+.teamName .teamInfo{
+    flex:1;
+    border-radius: 10rpx;
+    height: 70rpx;
+    padding: 0 14rpx;
+    font-size: 28rpx;
+    border: 2rpx solid #4b90f6;
+}
+
+.zhengBox{
+    padding: 40rpx;
+}
+.name .must{
+    color: red;
+    margin-right: 10rpx;
+}

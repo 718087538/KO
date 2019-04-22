@@ -1,0 +1,19 @@
+<!--KO/order/order20+/order7.wxml-->
+<view class='box'>
+<block wx:for="{{goods}}" wx:key>
+    <view class='goods'>
+        <image class='goods-img' src='/KO/img/img.png'></image>
+
+        <view class='goods-title'>户外旅行洗漱杯旅游户外旅行洗漱杯 旅游</view>
+
+        <view class='money'>
+            
+            <text class='money-nums'><text class='money-icon'>￥</text>118</text>
+            <text class='past-money'>￥200</text>
+        </view>
+    </view>
+
+</block>
+</view>
+
+<!-- K117 -->

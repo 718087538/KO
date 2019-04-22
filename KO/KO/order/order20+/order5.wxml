@@ -1,0 +1,31 @@
+<!--KO/order/order20+/order5.wxml-->
+<view class='box'>
+    <image class='goods' src='/KO/img/img.png'></image>
+        <view class='line2'>
+    云墅旅居候鸟生态圈微语   真正的富有，并非巨额的财富，而是每天挂在你脸上灿烂的笑云墅旅居候鸟生态圈微语   真正的富有，并非巨额的财富，而是每天挂在你脸上灿烂的笑云墅旅居候鸟生态圈微语   真正的富有，并非巨额的财富，而是每天挂在你脸上灿烂的笑
+    </view>
+    <view class='infos'>
+        <view class='titles'>已读260</view>
+        <view class='line11'>
+            <text> 2019-04-10</text>
+        </view>
+    </view>
+
+</view>
+
+
+<view class='box'>
+    <image class='goods' src='/KO/img/img.png'></image>
+        <view class='line2'>
+    云墅旅居候鸟生态圈微语   真正的富有，并非巨额的财富，而是每天挂在你脸上灿烂的笑云墅旅居候鸟生态圈微语   真正的富有，并非巨额的财富，而是每天挂在你脸上灿烂的笑云墅旅居候鸟生态圈微语   真正的富有，并非巨额的财富，而是每天挂在你脸上灿烂的笑
+    </view>
+    <view class='infos'>
+        <view class='titles'>已读260</view>
+        <view class='line11'>
+            <text> 2019-04-10</text>
+        </view>
+    </view>
+
+</view>
+
+<!-- K116 -->

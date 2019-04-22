@@ -1,0 +1,16 @@
+<!--KO/form/form20+/form2.wxml-->
+<view class='teamName hang'>
+    <view class='name'>证书名称
+        <text class='must'>*</text>
+    </view>
+    <view class='leixing '>
+        <picker class='pick1' bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+            <view class="picker">
+                {{array[index]}}
+            </view>
+        </picker>
+
+    </view>
+</view>
+
+<!-- K111 -->

@@ -1,0 +1,43 @@
+/* KO/form/form20+/form2.wxss */
+
+.teamName{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40rpx;
+}
+.teamName .name{
+    font-size: 30rpx;
+}
+
+.name .must{
+    color: red;
+    margin-right: 10rpx;
+}
+
+.hang{
+    justify-content: flex-start;
+}
+.leixing{
+    width: 236rpx;
+    height: 60rpx;
+    position: relative;
+    border-radius: 10rpx;
+    border: 1rpx solid #4b90f6;
+    padding: 0 30rpx;
+    font-size: 24rpx;
+    color: #808080;
+    line-height: 60rpx;
+}
+.pick1::after{
+    content: "";
+    position: absolute;
+    right: 20rpx;
+    top: 10rpx;
+    display: inline-block;
+    width: 14rpx;
+    height: 14rpx;
+    border: 2rpx solid #4b90f6;
+    border-width: 0 2rpx 2rpx 0;
+    transform: rotate(45deg);
+}

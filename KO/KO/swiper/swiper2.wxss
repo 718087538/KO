@@ -1,0 +1,12 @@
+/* KO/swiper/swiper2.wxss */
+swiper{
+    overflow: hidden;
+    height: 406rpx;
+}
+swiper-item{
+    width: 100%;
+}
+.item-img{
+    width: 100%;
+    height: 100%;
+}
