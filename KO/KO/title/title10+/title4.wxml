@@ -1,0 +1,11 @@
+<!--KO/title/title10+/title4.wxml-->
+<view class='textBox'>
+    <view class='title'>云墅旅居候鸟生态圈微语   真正的富有，并非巨额的财富，而是每天挂在你脸上灿烂的笑容。</view>
+    <view class='date'>
+        <view>已读260</view>
+        <view>2019-04-10</view>
+    </view>
+</view>
+
+
+<!-- K119 -->

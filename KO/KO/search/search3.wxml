@@ -1,0 +1,11 @@
+<!--KO/search/search3.wxml-->
+<view class='search'>
+    <view class='search-area'>
+        <input class='input' placeholder='搜索一下吧' placeholder-class='input-cont'></input>
+        <image class='img' src='/KO/img/img.png'></image>
+    </view>
+</view>
+
+
+
+<!-- K118 -->

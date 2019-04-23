@@ -1,0 +1,15 @@
+/* KO/title/title10+/title4.wxss */
+.textBox{
+    margin: 36rpx 20rpx;
+    border-bottom: 2rpx solid #eeeeee;
+}
+.textBox .title{
+    font-size: 32rpx;
+}
+.date{
+    display: flex;
+    font-size: 24rpx;
+    justify-content: space-between;
+    margin: 20rpx 0;
+    color: #808080;
+}

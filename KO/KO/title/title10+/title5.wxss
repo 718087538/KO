@@ -1,0 +1,30 @@
+/* KO/title/title10+/title5.wxss */
+.money{
+    display: flex;
+    align-items: baseline;
+    padding: 20rpx;
+}
+.money .money-icon{
+    font-size: 26rpx;
+    color: #ff4c2e;
+}
+.money .numbers{
+    font-size: 48rpx;
+    color: #ff4c2e;
+}
+.money  .fan{
+    background: #ffa824;
+    font-size: 18rpx;
+    color: #fff;
+    height: 24rpx;
+    line-height: 24rpx;
+    padding: 0 30rpx;
+    border-radius: 20rpx;
+
+}
+.from{
+    flex: 1;
+    text-align: right;
+    font-size: 24rpx;
+    color: #ffa92e;
+}
