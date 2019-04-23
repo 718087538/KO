@@ -1,0 +1,29 @@
+<!--KO/form/form20+/form1.wxml-->
+
+<view class='box'>
+    <view class='line'>
+        <view class='title'>优惠</view>
+        <input class='price'></input>
+        <view class='price2'>￥</view>
+    </view>
+
+
+    <view class='line'>
+        <view class='title'>优惠</view>
+        <input></input>
+        <view class='jianGe'>——</view>
+        <input></input>
+    </view>
+
+    <view class='line'>
+        <view class='title'>优惠</view>
+        <view class='jianGe man'>满</view>
+
+        <input></input>
+        <view class='jianGe'>减</view>
+        <input class='price'></input>
+    </view>
+
+</view>
+
+<!-- K107 -->

@@ -1,0 +1,34 @@
+/* KO/search/search3.wxss */
+
+.search{
+    width: 100%;
+    overflow: hidden;
+    height: 50rpx;
+    background-color: #43bd56;
+    padding: 30rpx 30rpx;
+}
+.img{
+    width: 36rpx;
+    height: 36rpx;
+    margin: 0 0 0 30rpx;
+}
+.search-area{
+    display: flex;
+    align-items: center;
+}
+.input-cont{color: #808080;font-size: 28rpx;background: }
+
+
+
+
+.input{
+    height: 66rpx;
+    width: 536rpx;
+    background-repeat: no-repeat;
+    border-radius: 30rpx;
+    background-position:20rpx center;
+    padding-left: 80rpx;
+    background-image: url(https://s2.ax1x.com/2019/04/22/EkwB9K.png) ;
+    background-color: #fff;
+    background-size: 32rpx 32rpx;
+}

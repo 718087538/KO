@@ -1,0 +1,11 @@
+<!--KO/title/title10+/title5.wxml-->
+<view class='money'>
+    <text class='money-icon'>￥</text>
+    <text class='numbers'>39.9</text>
+    <view class='fan'>返100%漫游值</view>
+    <view class='from'>候鸟圈自营</view>
+</view>
+
+
+
+<!-- K120 -->

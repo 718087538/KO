@@ -1,0 +1,17 @@
+<!--KO/order/order20+/order2.wxml-->
+<view class='info'>
+    <view class='line1'>美颜插件功能</view>
+    <view class='line2'>上课的老师美美哒上课的老师美美哒~</view>
+    <view class='price'>
+        <image src='/KO/img/ztxq-icon-huo@2x.png'></image>
+        <image src='/KO/img/ztxq-icon-huo@2x.png'></image>
+        <image src='/KO/img/ztxq-icon-huo@2x.png'></image>
+        <image src='/KO/img/ztxq-icon-huo@2x.png'></image>
+        <image src='/KO/img/ztxq-icon-huo@2x.png'></image>
+    </view>
+
+    <view class='jia'>￥50</view>
+    <view class='date'>2019/01/09</view>
+</view>
+
+<!-- K106 -->

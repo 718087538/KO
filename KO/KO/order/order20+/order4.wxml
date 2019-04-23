@@ -1,0 +1,32 @@
+<!--KO/order/order20+/order4.wxml-->
+<view class='box'>
+    <view class='my_title'>商品详情</view>
+    <image class='goods' src='/KO/img/img.png'></image>
+
+    <view class='infos'>
+        <view class='titles'>广州番禺花花卡就好啦开始的</view>
+        <view class='line11'>
+            <text class='y'>￥</text>
+            <text> 66.99万</text>
+        </view>
+    </view>
+    <view class='line2'>
+    4房3厅1卫  多功能阁楼
+    </view>
+
+        <image class='goods' src='/KO/img/img.png'></image>
+
+    <view class='infos'>
+        <view class='titles'>广州番禺花花卡就好啦开始的</view>
+        <view class='line11'>
+            <text class='y'>￥</text>
+            <text> 66.99万</text>
+        </view>
+    </view>
+    <view class='line2'>
+    4房3厅1卫  多功能阁楼
+    </view>
+</view>
+
+
+<!-- K115 -->

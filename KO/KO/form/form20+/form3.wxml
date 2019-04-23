@@ -1,0 +1,13 @@
+<!--KO/form/form20+/form3.wxml-->
+<view class='teamName'>
+    <view class='name'>证书名称
+        <text class='must'>*</text>
+    </view>
+    <input class='teamInfo jiage2' type='text'></input>
+
+<view class='price2'>￥</view>
+
+    <view id="info">
+         <text>（价格取值范围：1—99999.00）\n取两个小数点</text>
+    </view>
+</view>

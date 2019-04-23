@@ -1,0 +1,12 @@
+/* KO/list/list20+/list7.wxss */
+.li{
+    height: 88rpx;
+    line-height: 88rpx;
+    padding: 0 40rpx;
+    display: flex;
+    font-size: 30rpx;
+    border-bottom: 2rpx solid #eeeeee;
+}
+.li .age{
+    margin-right: 40rpx;
+}

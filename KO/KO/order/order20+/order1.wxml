@@ -1,0 +1,23 @@
+<!--KO/order/order20+/order1.wxml-->
+ <view class='goodItem'>
+                <image class='itemImg' src='/KO/img/img.png'></image>
+                <view class='right'>
+                    <view>秒杀功能</view>
+                    <view>上课的老师美美哒上课的老师美美哒~</view>
+                    <view class='price'>
+                    <image src='/KO/img/ztxq-icon-huo@2x.png'></image>
+                    <image src='/KO/img/ztxq-icon-huo@2x.png'></image>
+                    <image src='/KO/img/ztxq-icon-huo@2x.png'></image>
+                    <image src='/KO/img/ztxq-icon-huo@2x.png'></image>
+                    <image src='/KO/img/ztxq-icon-huo@2x.png'></image>
+                    
+                    </view>
+                    <view class='time'>
+                        <text>2019/01/09</text>
+                    </view>
+                </view>
+                <view class='numbers'>￥50</view>
+                <view class="state">前往购买</view>
+            </view>
+
+<!-- K104 -->

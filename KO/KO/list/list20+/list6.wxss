@@ -1,0 +1,55 @@
+/* KO/list/list20+/list6.wxss */
+
+.item{
+    padding: 40rpx;
+    display: flex;
+    margin-bottom: 40rpx;
+    border-bottom: 2rpx solid #f0f0f0;
+}
+.right{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.item .itemImg{
+    width: 250rpx;
+    height: 150rpx;
+    margin-right: 20rpx;
+    border-radius: 10rpx;
+}
+.right .line2{
+    display: flex;
+    font-size: 24rpx;
+    align-items: center;
+}
+.right .line2 image{
+    width: 40rpx;
+    height: 40rpx;
+    margin-right: 20rpx
+}
+.right .title{
+    width: 369rpx;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 30rpx;
+}
+
+.line3{
+    width: 370rpx;
+    display: flex;
+}
+.line3 .num{
+    font-size: 18rpx;
+    color: #636363;
+    flex: 1;
+}
+.line3 .xia{
+    font-size: 24rpx;
+    color: #4b90f6;
+}
+.line3 .del{
+    font-size: 24rpx;
+    margin-left: 20rpx;
+    color: #da1b0d;
+}

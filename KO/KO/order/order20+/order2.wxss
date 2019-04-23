@@ -1,0 +1,36 @@
+/* KO/order/order20+/order2.wxss */
+
+.info{
+    position: relative;
+    margin: 40rpx;
+}
+.info .line1{
+    font-size: 30rpx;
+}
+.info .line2{
+    font-size: 18rpx;
+    color: #858585;
+    margin: 10rpx 0;
+}
+.price{
+    width: 100rpx;
+    display: flex;
+    justify-content: space-between;
+}
+.price image{
+    width: 15rpx;
+    height: 20rpx;
+}
+.jia{
+    position: absolute;
+    font-size: 60rpx;
+    color: #da1b0d;
+    right: 0;
+    top: 0rpx;
+}
+.date{
+    font-size: 18rpx;
+    color: #808080;
+    position: absolute;right: 0;
+    bottom: 0;
+}

@@ -1,0 +1,21 @@
+<!--KO/list/list20+/list7.wxml-->
+
+
+
+<view class='title li'>识别结果</view>
+
+
+
+<block wx:for="{{lis}}" wx:key>
+
+<view class='li'>
+    <view class='age'>年龄</view>
+    <view>28</view>
+</view>
+
+</block>
+
+
+
+
+<!-- K113 -->

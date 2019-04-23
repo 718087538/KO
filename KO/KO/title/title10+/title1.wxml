@@ -1,0 +1,9 @@
+<!--KO/title/title10+/title1.wxml-->
+<view class='time'>
+    <image class='img1' src='/KO/img/gxzx-icon-nz@2x.png'></image>
+    <view>工作时间：9:00-18:00</view>
+    <image class='img2' src='/KO/img/gxzx-icon-dh@2x.png'></image>
+    <view>电话号码：18888888888</view>
+</view>
+
+<!-- K102 -->

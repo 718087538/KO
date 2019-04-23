@@ -1,0 +1,12 @@
+/* KO/title/title10+/title3.wxss */
+.imgBox{
+    height: 460rpx;
+    width: 750rpx;
+    background: #eeeeee;
+}
+.imgBox .img1{
+    width: 466rpx;
+    height: 310rpx; 
+    border-radius: 10rpx;
+    margin:  88rpx 0 0 142rpx;
+}

@@ -1,0 +1,15 @@
+<!--KO/swiper/swiper2.wxml-->
+<swiper indicator-dots="true" autoplay="true" interval="3600" duration="1000" circular="true" indicator-color="#95A6BC" indicator-active-color="#fff">
+    <swiper-item>
+        <image class='item-img' src='/KO/img/img.png'></image>
+    </swiper-item>
+    <swiper-item>
+        <image class='item-img' src='/KO/img/img.png'></image>
+    </swiper-item>
+    <swiper-item>
+        <image class='item-img' src='/KO/img/img.png'></image>
+    </swiper-item>
+</swiper>
+
+
+<!-- K114 -->

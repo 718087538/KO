@@ -1,0 +1,58 @@
+/* KO/order/order20+/order5.wxss */
+
+page{
+    background-color: #fafafa;
+}
+
+
+.title{
+    margin-top: 20rpx;
+    margin-bottom: 40rpx;
+}
+
+.my_title{
+    margin-bottom: 10rpx;
+    font-size: 36rpx;
+}
+.box{
+    margin: 20rpx;
+    background-color: #fff;
+    padding: 20rpx;
+    border-radius: 10rpx;
+}
+.goods{
+    width: 100%;
+    height:368rpx;
+}
+
+.infos{
+    display: flex;
+    font-size: 32rpx;
+    line-height:60rpx;
+    justify-content: space-between;
+}
+.infos .titles{
+    width: 311rpx;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+
+.line2{
+    width: 638rpx;
+    height: 38rpx;
+    overflow: hidden;
+    font-size: 32rpx;
+    text-overflow: ellipsis;
+    color: #333;
+    /* 如果开启换行，则省略号会失效 */
+    white-space: nowrap;
+}
+.infos{
+    color: #808080;
+    font-size: 24rpx;
+}
+.infos .line11{
+    color: #808080;
+}

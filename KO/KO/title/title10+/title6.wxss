@@ -1,0 +1,21 @@
+/* KO/title/title10+/title6.wxss */
+
+.items{
+    width: 712rpx;
+    height: 242rpx;
+    margin: 0 auto 20rpx;
+    background: url("https://s2.ax1x.com/2019/04/23/EAanOJ.png") no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+    overflow: hidden;
+}
+
+.items .title1{
+    font-size: 34rpx;
+    margin:80rpx 0 0 30rpx;
+}
+
+.items .title2{
+    font-size: 24rpx;
+    margin:20rpx 0 0 30rpx;
+}

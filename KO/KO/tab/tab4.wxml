@@ -11,7 +11,7 @@
         </block>
         <block wx:if="{{status=='1'}}">
           11111111111111111111111
-        </block>
+        </block> 
     </view>
 
 

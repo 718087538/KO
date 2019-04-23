@@ -1,0 +1,7 @@
+<!--KO/title/title10+/title3.wxml-->
+<view class='imgBox'>
+
+    <image class='img1' src='/KO/img/img.png'></image>
+</view>
+
+<!-- K112 -->

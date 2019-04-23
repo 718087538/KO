@@ -1,0 +1,19 @@
+<!--KO/tab/tab0+/tab5.wxml-->
+      <view class="buyer-tab-btn">
+        <view class="text-l {{status=='0' ? 'on':''}}" data-tabid="0" bindtap='clickTab'>上架</view>
+        <view class="{{status=='1' ? 'on':''}}" data-tabid="1" bindtap='clickTab'>下架</view>
+      </view>
+
+      <view class="buyer-tab-container">
+        <!--采购申请-->
+        <block wx:if="{{status=='0'}}">
+         000000000
+
+        </block>
+        <!--退换申请-->
+        <block wx:if="{{status=='1'}}">
+          11111111111111111111111
+        </block>
+    </view>
+
+    <!-- K110 -->
