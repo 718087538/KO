@@ -1,4 +1,4 @@
-// KO/tab/tab4.js
+// KO/tab/tab0+/tab6.js
 Component({
     /**
      * 组件的属性列表
@@ -12,6 +12,7 @@ Component({
      */
     data: {
         status: 0
+
     },
 
     /**

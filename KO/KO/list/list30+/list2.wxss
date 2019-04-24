@@ -1,0 +1,36 @@
+/* KO/list/list30+/list2.wxss */
+
+.bottom{
+    position: fixed;
+    height: 100rpx;
+    display: flex;
+    width: 100%;
+    bottom: 0;
+    align-items: center;
+    font-size: 36rpx;
+}
+.bottom .left{
+    flex: 1;
+    height: 100rpx;
+    line-height: 100rpx;
+    padding-right: 30rpx;
+    font-size: 26rpx;
+    color: #333;
+    text-align: right;
+    border-top: 1rpx solid #fafafa;
+    background: #fff;
+}
+.bottom .left .money{
+    color: red;
+    font-weight: bold;
+    margin-left: 10rpx;
+}
+.bottom .right{
+    width: 200rpx;
+    height: 100rpx;
+    line-height: 100rpx;
+    text-align: center;
+    color: #fff;
+    font-size: 30rpx;
+    background: #43bd56;
+}

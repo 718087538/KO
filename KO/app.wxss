@@ -1,6 +1,7 @@
 /**app.wxss**/
 
+
 .shadow{
-    box-shadow: 0 6rpx 10rpx 6rpx rgba(0,0,0,0.03);
+    box-shadow: 0 0 10rpx 10rpx #fafafa;
     border-radius: 10rpx;
 }

@@ -1,0 +1,21 @@
+<!--KO/tab/tab0+/tab6.wxml-->
+      <view class="buyer-tab-btn">
+        <view class="text-l {{status=='0' ? 'on':''}}" data-tabid="0" bindtap='clickTab'>豪华</view>
+        <view class="{{status=='1' ? 'on':''}}" data-tabid="1" bindtap='clickTab'>新品</view>
+    <view class="{{status=='2' ? 'on':''}}" data-tabid="2" bindtap='clickTab'>热门</view>
+      </view>
+
+      <view class="buyer-tab-container">
+        <block wx:if="{{status=='0'}}">
+         000000000000000000000000
+        </block>
+        <block wx:if="{{status=='1'}}">
+          11111111111111111111111
+        </block> 
+           <block wx:if="{{status=='2'}}">
+          2222222222222222222222222222
+        </block> 
+    </view>
+
+
+    <!-- K125 -->

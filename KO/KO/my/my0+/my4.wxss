@@ -1,5 +1,4 @@
 /* KO/my/my4.wxss */
-@import "../app.wxss";
 page{
     background: #fafafa;
 }

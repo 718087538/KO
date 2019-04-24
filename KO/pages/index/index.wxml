@@ -9,6 +9,4 @@
     <input placeholder='请输入宝宝年龄'></input>
 </view> -->
 
-
-<order1 ulk10="{{ulk10}}"/>
-<title/>
+<view>我是首页</view>
