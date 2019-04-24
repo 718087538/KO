@@ -1,0 +1,36 @@
+/* KO/search/search0+/search4.wxss */
+.seaBox{
+    padding: 20rpx 24rpx;
+    background: #43bd56;
+    position:relative;
+}
+.seaBox .sea{
+    background: #fff;
+    padding-left: 194rpx;
+    font-size: 28rpx;
+    border-radius: 40rpx;
+    background: url("https://s2.ax1x.com/2019/04/24/EEjysP.png") #fff no-repeat;
+    background-size: 32rpx 32rpx;
+    background-position: 156rpx 10rpx;
+}
+.addr{
+position:absolute;
+top:30rpx;
+left:45rpx;
+border-right:2rpx solid #999;
+padding-right:20rpx;
+display:flex;
+align-items:center;
+font-size:28rpx;
+color:#666;
+height:32rpx;
+
+}
+#addrImg{
+   width: 22rpx;
+   height: 27rpx; 
+   margin-right: 16rpx;
+}
+.addr view{
+    margin-bottom:4rpx;
+}

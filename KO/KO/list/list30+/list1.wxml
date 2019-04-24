@@ -1,0 +1,15 @@
+<!--KO/list/list30+/list1.wxml-->
+
+<view class='user shadow'>
+<view class='line3'>
+    <text class='t1'>联系人</text>
+    <text class='t2'>梁小姐</text>
+</view>
+
+<view class='line3 last'>
+    <text class='t1'>电话</text>
+    <text class='t2'>13800138000</text>
+</view>
+</view>
+
+<!-- K130 -->

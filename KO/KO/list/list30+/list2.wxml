@@ -1,0 +1,11 @@
+<!--KO/list/list30+/list2.wxml-->
+<view class='bottom'>
+    <view class='left'>
+        <text>客服:</text>  <text class='money'>￥690</text>
+    </view>
+    <view class='right'>提交订单</view>
+</view>
+
+
+
+<!-- K131 -->

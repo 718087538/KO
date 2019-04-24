@@ -1,0 +1,8 @@
+<!--KO/search/search0+/search4.wxml-->
+<view class='seaBox'>
+    <input class='sea' placeholder='搜索一下'></input>
+    <view class='addr'> <image id="addrImg" src="/KO/img/appointment_icon_positioning@2x.png"></image> <view>广州</view> </view>
+</view>
+
+
+<!-- K126 -->

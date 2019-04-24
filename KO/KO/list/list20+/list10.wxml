@@ -1,0 +1,7 @@
+<!--KO/list/list20+/list10.wxml-->
+<view class='line2'>
+    <text class='t1'>金额</text>
+    <text class='t2'>￥690元/晚</text>
+</view>
+
+<!-- K129 -->

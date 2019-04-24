@@ -1,31 +1,66 @@
-// KO/address/add1.js
-Component({
-    /**
-     * 组件的属性列表
-     */
-    properties: {
-        ul:{
-            type:Array,
-            value:[
-                {title:"收货人",placeholder:"请输入内容",value:""},
-                {title:"联系方式",placeholder:"请输入联系方式",value:""},
-                {title:"省 市 区",placeholder:"请输入地址",value:""},
-                { title: "详细地址", placeholder: "请输入详细地址", value: "" },
-            ]
-        }
-    },
+// KO/address/k1.js
+Page({
 
     /**
-     * 组件的初始数据
+     * 页面的初始数据
      */
     data: {
 
     },
 
     /**
-     * 组件的方法列表
+     * 生命周期函数--监听页面加载
      */
-    methods: {
+    onLoad: function (options) {
+
+    },
+
+    /**
+     * 生命周期函数--监听页面初次渲染完成
+     */
+    onReady: function () {
+
+    },
+
+    /**
+     * 生命周期函数--监听页面显示
+     */
+    onShow: function () {
+
+    },
+
+    /**
+     * 生命周期函数--监听页面隐藏
+     */
+    onHide: function () {
+
+    },
+
+    /**
+     * 生命周期函数--监听页面卸载
+     */
+    onUnload: function () {
+
+    },
+
+    /**
+     * 页面相关事件处理函数--监听用户下拉动作
+     */
+    onPullDownRefresh: function () {
+
+    },
+
+    /**
+     * 页面上拉触底事件的处理函数
+     */
+    onReachBottom: function () {
+
+    },
+
+    /**
+     * 用户点击右上角分享
+     */
+    onShareAppMessage: function () {
 
     }
 })

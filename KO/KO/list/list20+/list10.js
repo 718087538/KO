@@ -1,4 +1,4 @@
-// KO/tab/tab4.js
+// KO/list/list20+/list10.js
 Component({
     /**
      * 组件的属性列表

@@ -1,0 +1,50 @@
+/* KO/list/list20+/list8.wxss */
+.student{
+    position: relative;
+    display: flex;
+    padding: 30rpx 40rpx;
+}
+.headImg{
+    width:63rpx;
+    height: 63rpx;
+    border-radius: 50%;
+    margin-right: 20rpx;
+}
+.student .name{
+    font-size: 28rpx;
+}
+.student .fans{
+    font-size: 18rpx;
+}
+
+.like{
+    position: absolute;
+    right: 40rpx;
+    font-size:18rpx;
+    width: 115rpx;
+    height: 30rpx;
+    background: #4b90f6;
+    color: #fff;
+    border-radius: 10rpx;
+    text-align: center;
+}
+.ping{
+    font-size: 24rpx;
+    margin: 0rpx 27rpx 20rpx 85rpx;
+}
+.imgBox{
+    display: flex;
+    padding-left: 85rpx;
+    flex-wrap: wrap;
+
+}
+.imgBox image{
+    width: 196rpx;
+    height: 196rpx;
+    margin-right: 10rpx;
+    margin-bottom: 20rpx;
+}
+.item2{
+    margin: 0 20rpx;
+    border-bottom: 3rpx solid #d3d6d6;
+}

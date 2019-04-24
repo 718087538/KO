@@ -1,0 +1,23 @@
+<!--KO/list/list20+/list8.wxml-->
+<view class='item2'>
+        <view class='student'>
+            <image class='headImg' src='/KO/img/img.png'></image>
+            <view class='infos'>
+                <view class='name'>小布</view>
+                <view class='fans'>
+                    2018年8月8日
+                </view>
+            </view>
+        </view>
+    <view class='ping'>首先，快递很快，包装不错，产品也很好看十分喜欢，是一次不错的购物</view>
+    <view class='imgBox'>
+        <image src='/KO/img/img.png'></image>
+        <image src='/KO/img/img.png'></image>
+        <image src='/KO/img/img.png'></image>
+        <image src='/KO/img/img.png'></image>
+        <image src='/KO/img/img.png'></image>
+        <image src='/KO/img/img.png'></image>
+    </view>
+</view>
+
+<!-- K124 -->

@@ -1,0 +1,11 @@
+<!--KO/list/list20+/list9.wxml-->
+<view class='line'>
+    <text class='t1'>入住时间</text>
+    <text class='t2'>4月11日</text>
+    <text class='t3'>至</text>
+    <text class='t4'>4月11日</text>
+    <text class='t5'>共1晚</text>
+</view>
+
+
+<!-- K128 -->
