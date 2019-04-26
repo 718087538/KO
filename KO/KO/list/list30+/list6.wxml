@@ -1,0 +1,15 @@
+<!--KO/list/list30+/list6.wxml-->
+<block wx:for="{{lis}}" wx:key>
+    <view class='li'>
+        <view class='line line1'>
+            <text>2018-04-05 19:32:02</text>
+            <text>收入</text>
+        </view>
+        <view class='line line2'>
+            <text>充值6.00元</text>
+            <text>+6</text>
+        </view>
+    </view>
+</block>
+
+<!-- K138 -->

@@ -1,0 +1,33 @@
+/* KO/list/list30+/list5.wxss */
+
+.liBox{
+    margin: 23rpx;
+    padding: 40rpx 40rpx 0 40rpx;
+    background: #fff;
+}
+.liBox .li{
+    display: flex;
+    height: 98rpx;
+    line-height: 98rpx;
+    align-items: center;
+    border-bottom: 2rpx solid #f5f5f5;
+
+}
+.liBox .img1{
+    margin-right: 22rpx;
+    width: 32rpx;
+    height: 32rpx;
+}
+.liBox .name{
+    flex: 1;
+    font-size: 28rpx;
+}
+.liBox .img2{
+    text-align: center;
+    width: 170rpx;
+    height: 64rpx; font-size: 28rpx;
+    line-height: 64rpx;
+    border-radius: 50rpx;
+    color: #fec062;
+    border: 2rpx solid #fec062;
+}

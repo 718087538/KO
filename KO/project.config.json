@@ -19,6 +19,8 @@
 		"hidedInDevtools": []
 	},
 	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
@@ -49,7 +51,7 @@
 				{
 					"id": 1,
 					"name": "当前",
-					"pathName": "KO/list/list30+/list2",
+					"pathName": "KO/button/btm10+/btn2",
 					"query": "",
 					"scene": null
 				},

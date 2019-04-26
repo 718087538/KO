@@ -1,0 +1,13 @@
+/* KO/form/form20+/form4.wxss */
+.nums{
+    display: flex;
+    align-items: baseline;
+    margin: 20rpx 40rpx;
+    padding-bottom: 10rpx;
+    border-bottom: 2rpx solid #e5e5e5;
+}
+.nums .price{
+    height: 100rpx;
+    font-size: 76rpx;
+    padding-left: 20rpx;
+}

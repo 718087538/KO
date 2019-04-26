@@ -1,0 +1,30 @@
+/* KO/list/list30+/list3.wxss */
+
+.house{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.house .title{
+    font-size: 36rpx;
+    padding-top: 30rpx;
+}
+.house .inText{
+    font-size: 24rpx;
+    color: #808080;
+    line-height: 40rpx;
+}
+.house .leftInfo{
+    position: relative;
+}
+.house .leftInfo::after{
+    content: "";
+    color: #e6e6e6;
+    width: 2rpx;
+    height: 54rpx;
+    background: #eceaea;
+    display: inline-block;
+    position: absolute;
+    right: -140rpx;
+    top: 40rpx;
+}

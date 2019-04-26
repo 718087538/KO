@@ -1,17 +1,17 @@
 {
-  "pages":[
-    "pages/index/index",
-    "pages/index/test",
-    "pages/addr/addr1",
-
-    "KO/ko/ko",
-    "KO/address/k1",
-    "pages/logs/logs"
-  ],
-  "window":{
-    "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
-  }
+    "pages": [
+        "pages/index/index",
+        "pages/index/test",
+        "pages/addr/addr1",
+        "KO/ko/ko",
+        "KO/address/k1",
+        "pages/logs/logs"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "WeChat",
+        "navigationBarTextStyle": "black"
+    },
+    "sitemapLocation": "sitemap.json"
 }

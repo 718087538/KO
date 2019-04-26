@@ -1,0 +1,61 @@
+/* KO/my/my0+/my9.wxss */
+page{
+    background: #f5f5f5
+}
+
+
+.card{
+    border-radius: 10rpx;
+    position: relative;
+    width: 700rpx;
+    height: 306rpx;
+    background: #fff;
+    padding: 10rpx;
+    box-shadow:0 10rpx 10rpx #f5f5f5;
+    margin: 0rpx auto 30rpx;
+}
+.card .user{
+    display: flex;
+}
+.card .user .leftImg{
+    width: 110rpx;
+    height: 110rpx;
+    border-radius: 50%;
+    margin: 30rpx;
+}
+.card .user .right{
+    margin: 46rpx 0 0 0;
+}
+.t1{
+    display: flex;
+    align-items: center;
+} 
+.t1 .name{
+    font-size: 32rpx;
+    margin-right: 10rpx;
+}
+.nameImg{
+    width: 24rpx;
+    height: 26rpx;
+}
+.vip{
+width: 82rpx;
+height: 25rpx;
+}
+.user{
+    border-bottom: 2rpx solid #f5f5f5;
+}
+.edit{
+    font-size:20rpx; 
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 30rpx;
+    right: 10rpx;
+    padding: 10rpx 30rpx;
+}
+.edit .editImg{
+    width: 22rpx;
+    margin-left: 20rpx;
+    height: 22rpx;
+}

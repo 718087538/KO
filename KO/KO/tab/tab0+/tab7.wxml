@@ -1,0 +1,42 @@
+<!--KO/tab/tab0+/tab7.wxml-->
+
+
+<!--导航条-->
+<view class="navbar">
+    <text wx:for="{{navbar}}" wx:if='{{index == 0}}' data-idx="{{index}}" class="item {{currentTab==index ? 'active' : ''}}" bindtap="navbarTap">{{item}}</text>
+    <text wx:for="{{navbar}}" wx:if='{{index == 1}}' data-idx="{{index}}" class="item {{currentTab==index ? 'active' : ''}}"  bindtap="navbarTap">{{item}}</text>
+    <text wx:for="{{navbar}}" wx:if='{{index == 2}}' data-idx="{{index}}" class="item {{currentTab==index ? 'active' : ''}}"  bindtap="navbarTap">{{item}}</text>
+</view>
+
+
+<!-- 主体内容 -->
+<view class='content_box'>
+
+    <swiper class="swiper" current="{{currentTab}}" duration="200" bindchange="swiperChange">
+     
+        <swiper-item>
+                111111111111
+        </swiper-item>
+
+        <swiper-item>
+          <view>
+               2222222
+            </view>
+        </swiper-item>
+
+      
+        <swiper-item>
+                3333333333333333
+        </swiper-item>
+
+    </swiper>
+</view>
+
+
+
+
+<view style='text-align:center'>用户体验好</view>
+
+
+
+<!-- K140 -->
