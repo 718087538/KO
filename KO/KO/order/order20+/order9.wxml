@@ -1,0 +1,31 @@
+<!--KO/order/order20+/order9.wxml-->
+<view class='content'>
+    <view class='line1'>
+        <radio></radio>
+        <view class='title'>候鸟圈自营</view>
+        <image class='close' src='/KO/img/shop_btn_close@2x.png'></image>
+    </view>
+
+    <view class='order'>
+        <radio></radio>
+        <image class='orderImg' src='/KO/img/home_imger.jpg'></image>
+        <view class='right'>
+            <view class='title'>户外旅行洗漱杯 旅游</view>
+            <view class='styles'>规格：蓝色</view>
+            <view class='price'>
+                <text class='logo'>￥</text>
+                <text class='money'>39.9</text>
+            </view>
+        </view>
+     <view class='btn'>
+        <view class='j'>-</view>
+        <view class='n'>1</view>
+        <view class='a'>+</view>
+    </view>
+
+    </view>
+
+</view>
+
+
+<!-- K147 -->

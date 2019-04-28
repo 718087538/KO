@@ -1,0 +1,39 @@
+/* KO/list/list30+/list8.wxss */
+page{
+    background: #cc7373;
+}
+.liBox{
+    margin: 30rpx 20rpx;
+    border-radius: 10rpx;
+    padding: 0rpx 40rpx 0 40rpx;
+    background: #fff;
+}
+.liBox .li{
+    display: flex;
+    height: 98rpx;
+    line-height: 98rpx;
+    align-items: center;
+    border-bottom: 2rpx solid #f5f5f5;
+
+}
+.liBox .img1{
+    margin-right: 22rpx;
+}
+.liBox .name{
+    flex: 1;
+    font-size: 28rpx;
+}
+.liBox .img2{
+    text-align: right;
+    width: 20rpx;
+    height: 20rpx;
+}
+
+/* 列表里图片的尺寸不同 */
+.img_1{width: 34rpx;height: 38rpx;}
+.img_2{width: 38rpx;height: 38rpx;}
+.img_3{width: 35rpx;height: 34rpx;}
+.img_4{width: 35rpx;height: 35rpx;}
+.img_5{width: 35rpx;height: 33rpx;}
+.img_6{width: 34rpx;height: 33rpx;}
+.img_7{width: 35rpx;height: 33rpx;}

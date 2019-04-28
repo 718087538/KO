@@ -1,0 +1,19 @@
+<!--KO/list/list30+/list9.wxml-->
+<view class='liBoxs'>
+    <block wx:for="{{liss}}" wx:key>
+    <view class='li'>
+        <image class='img1 {{item.class1}}' src='/KO/img/{{item.src}}.png'></image>
+        <view class='name'>
+                <view class='vip'>VIP会员</view>
+                <view id='mon'>
+                    <text class='logo'>￥</text>
+                    <text class='text'>100</text>
+                </view>
+        </view>
+        <view class='img2'>{{item.price}}</view>
+    </view>
+    </block>
+</view>
+
+
+<!-- K146 -->

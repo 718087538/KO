@@ -1,0 +1,50 @@
+/* KO/list/list30+/list9.wxss */
+
+
+.liBoxs{
+    border-radius: 10rpx;
+
+    margin: 30rpx 20rpx;
+    padding: 0rpx 40rpx 0 40rpx;
+    background: #fff;
+}
+.liBoxs .li{
+    display: flex;
+    height: 150rpx;
+    line-height: 150rpx;
+    align-items: center;
+    border-bottom: 2rpx solid #f5f5f5;
+
+}
+.liBoxs .img1{
+    margin-right: 22rpx;
+    width: 94rpx;
+    height: 94rpx;
+}
+.liBoxs .name{
+    flex: 1;
+    font-size: 28rpx;
+
+}
+.liBoxs .name .vip{
+    height: 40rpx;    
+}
+.liBoxs .img2{
+    text-align: center;
+    width: 170rpx;
+    height: 64rpx;
+    line-height: 64rpx;
+    border-radius: 50rpx;
+    font-size: 24rpx;
+    color: #ffa92e;
+    background: #fff2e5;
+    border: 2rpx solid #fec062;
+}
+#mon{
+    color: #f3c378;
+    font-size: 46rpx;
+    margin-top: 20rpx;
+}
+#mon .logo{
+    font-size: 26rpx;
+}

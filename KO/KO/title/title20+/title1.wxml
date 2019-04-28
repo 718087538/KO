@@ -1,0 +1,10 @@
+<!--KO/title/title20+/title1.wxml-->
+<view class='box' bindtap='go1'>
+    <view class='left-times'>我的体质</view>
+    <view class='right'>
+        <image class='right-img' src='/KO/img/right.png'></image>
+    </view>
+</view>
+
+
+<!-- K151 -->

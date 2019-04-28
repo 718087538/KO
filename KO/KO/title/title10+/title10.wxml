@@ -1,0 +1,11 @@
+<!--KO/title/title10+/title10.wxml-->
+<view class='box' bindtap='go1'>
+    <view class='left-times'>支付方式</view>
+    <view class='right'>
+        <view class='right-title'>度假值</view>
+        <image class='right-img' src='/KO/img/right.png'></image>
+    </view>
+</view>
+
+
+<!-- K149 -->

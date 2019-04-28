@@ -1,0 +1,10 @@
+<!--KO/address/address0+/add5.wxml-->
+<view class='title-box'>
+   <view class='left'>
+        <view class='l1'>  <text>某某某</text>  <text>12312312312</text></view>
+        <view class='l2'>广东省广州市番禺区番禺大道总部中心一号楼虎
+超科技</view>
+   </view>
+
+   <image class='rightImgs' src='/KO/img/right.png'></image>
+</view>

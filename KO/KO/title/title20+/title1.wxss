@@ -1,0 +1,39 @@
+/* KO/title/title20+/title1.wxss */
+
+.box{
+    padding: 20rpx;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 32rpx;
+    border-bottom: 2rpx solid #f7f7f7;
+
+    justify-content: space-between;
+    background-color: #fff;
+}
+
+.right{
+    display: flex;
+    align-items: center;
+}
+.right-title{
+    color: #808080;
+}
+.right-img{
+    display: block;
+    width: 32rpx;
+    height: 32rpx;
+    margin-left: 20rpx;
+}
+.bottom-img{
+    width: 166rpx;
+    height: 66rpx;
+    margin-left: 50%;
+    margin-top: 30rpx;
+    transform: translateX(-50%);
+}
+
+.text-info{
+    color: #808080;
+    margin: 0 30rpx;
+    font-size: 24rpx;
+}

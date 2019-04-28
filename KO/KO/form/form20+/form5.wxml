@@ -1,0 +1,15 @@
+<!--KO/form/form20+/form5.wxml-->
+<view class='title2'>
+提现金额
+</view>
+
+
+<view class='nums'>
+    <view class='logo'>￥</view>
+    <input type='text' class='price'></input>
+
+    <view class='all'>全部提现</view>
+</view>
+
+
+<!-- K142 -->
