@@ -39,12 +39,12 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 1,
+			"current": 0,
 			"list": [
 				{
 					"id": 0,
 					"name": "按钮",
-					"pathName": "KO/order/order7",
+					"pathName": "KO/order/order30/order1",
 					"query": "",
 					"scene": null
 				},
