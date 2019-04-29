@@ -1,0 +1,20 @@
+<!--KO/my/my0+/my9.wxml-->
+<view class='card'>
+    <view class='user'>
+        <image class='leftImg' src='/KO/img/img.png'></image>
+        <view class='right'>
+            <view class='t1'>
+                <view class='name'>在在在</view>
+                <image class='nameImg' src='/KO/img/nanshi@2x.png'></image>
+            </view>
+            <image class='vip' src='/KO/img/my_vip1@2x.png'></image>
+        </view>
+
+        <view class='edit'>
+            <view>编辑</view>
+            <image class='editImg' src='/KO/img/my_icon_editor@2x.png'></image>
+        </view>
+    </view>
+</view>
+
+<!-- K132 -->

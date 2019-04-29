@@ -9,15 +9,65 @@
 </head>
 <body>
 
-    <article>
-        <h1>快速开发，深度定制！</h1>
-    </article>
+    <header class="header">
+        <div class="content">
+            <img class="logo" src="../images/logo.png" alt="">
+            <h2>快速开发，深度定制！</h2>
+            <h3>   KO框架帮你快速完成小程序及移动端的布局和样式编写，节省时间，专注逻辑开发!</h3>
+            <a class="download" href="">前往下载</a>
+            <p class="vertion">当前版本： v3.3.7 | 文档更新于：2019-04-25</p>
+        </div>
+    </header>
 
-    <section>
-        <p>1,引入KO组件</p>
-        <p>2,在页面找到需要的组件和编号</p>
-        <p>3,在小程序全局搜索代号</p>
-        <p>4，搜索到后可直接使用</p>
+    <section class="sec1">
+        <p class="ps">Tip：移动端需要更改单位rpx，所以使用在移动端时本框架仅可参考思路。</p>
+        <h2>使用时有两种方式：</h2>
+
+        <p class="intro">第1种：先从GitHub下载项目，并把程序跑在微信小程序开发工具中。
+                            然后对照本网站页面代号，复制相应代码到另一个小程序中。</p>
+        <p class="care">（推荐上面这种方式，因为现在整个程序已大于2M，微信规定小程序全部代码不得大于2M）</>
+
+        <p class="intro">第2种：把程序当做一个自定义组件引入小程序中，利用小程序的自定义组件使用这些代码和样式</p>
+        <p class="care">（强烈不推荐第2种方式，因为现在整个程序已大于2M，微信规定小程序全部代码不得大于2M）</>
+
+        <h2>下面我来给大家演示一下如何使用这两种方式：</h2>
+
+        <p class="first">第1种方式：</p>
+        <h6>下载对应的项目，师其跑在小程序开发工具中：</h6>
+        <img src="../images/start/1.png" alt="">
+        <h6>点击下载</h6>
+        <img src="../images/start/2.jpg" alt="">
+        <h6>解压缩</h6>
+        <img src="../images/start/3.jpg" alt="">
+        <h6>使用开发工具，按顺序打开</h6>
+        <p class="ps">没有的小伙伴可以到 <a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html">这里</a>下载</p>
+        <img src="../images/start/4.jpg" alt="">
+        <img src="../images/start/5.jpg" alt="">
+        <img src="../images/start/6.jpg" alt="">
+        <img src="../images/start/7.jpg" alt="">
+
+        <h6>成功打开后的页面</h6>
+        <img src="../images/start/8.jpg" alt="">
+
+        <h6>假如我们现在需要使用这个组件，先找到代号是K28</h6>
+        <img src="../images/start/9.jpg" alt="">
+
+
+        <h6>在小程序中全局搜索，并点击进去</h6>
+        <img src="../images/start/10.jpg" alt="">
+
+        <h6>饭后赋值相关的WXML，WXSS，JS到另一个小程序中</h6>
+        <img src="../images/start/11.jpg" alt="">
+        <h6>第一种方法结束，注意：图片不存在是因为你本地不存在那些图片，你可以改路径即可</h6>
+
+        <p class="first">第2种方式：</p>
+        <h6>下载对应的项目并解压：</h6>
+
+        <h6>把整个KO文件放在小程序中，然后利用自定义组件的方式使用。</h6>
+        <img src="../images/start/7.jpg" alt="">
+        <h6>TIP:要注意路径要正确，而且不推荐这种方式，占空间。</h6>
+        <h6><a href="">小程序自定义组件使用教程，点我跳转</a></h6>
+
     </section>
     <footer>
         <p>注：目前是先把页面抽离出来，后来会深度抽象成自定义组件，所以有些地方还需要使用者自己把数据抽离出来！</p>

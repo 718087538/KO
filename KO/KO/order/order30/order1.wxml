@@ -1,0 +1,17 @@
+<!--KO/order/order30/order1.wxml-->
+   <view class='box'>
+            <block wx:for="{{items}}" wx:key> 
+                <view class='item'>
+                    <image class='itemImg' src='/KO/img/img.png'></image>
+                    <image class='xin' src='/KO/img/home_praise_sel@2x.png'></image>
+
+                    <view class='like'>250</view>
+
+                    <image class='msg' src='/KO/img/home_btn_comments@2x.png'></image>
+                    <view class='msg2'>20</view>
+                </view>
+            </block>
+                </view>
+
+
+<!-- K149 -->

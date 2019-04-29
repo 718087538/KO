@@ -5,3 +5,8 @@
     box-shadow: 0 0 10rpx 10rpx #fafafa;
     border-radius: 10rpx;
 }
+.shadow2{
+    box-shadow:0 10rpx 10rpx #f5f5f5;
+    border-radius: 10rpx;
+
+}

@@ -1,0 +1,10 @@
+<!--KO/title/title10+/title7.wxml-->
+<view class='head'>
+    <view class='name'>度假值</view>
+    <view class='num'>89</view>
+    <navigator class='cat' url=''>查看消费记录</navigator>
+</view>
+
+
+
+<!-- K136 -->

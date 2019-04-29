@@ -1,0 +1,27 @@
+/* KO/form/form20+/form5.wxss */
+.title2{
+    font-size: 28rpx;
+    margin: 20rpx 60rpx;
+}
+
+
+.nums{
+    position: relative;
+    display: flex;
+    align-items: baseline;
+    margin: 20rpx 40rpx;
+    padding-bottom: 10rpx;
+    border-bottom: 2rpx solid #e5e5e5;
+}
+.nums .price{
+    height: 100rpx;
+    font-size: 76rpx;
+    padding-left: 20rpx;
+    padding-right: 120rpx;
+}
+.all{
+    position: absolute;
+    right: 0;
+    bottom: 30rpx;
+    font-size: 26rpx;
+}

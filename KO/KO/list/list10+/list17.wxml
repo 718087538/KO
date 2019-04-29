@@ -1,4 +1,4 @@
-<!--KO/list/list17.wxml-->
+<!--KO/list/list10+/list17.wxml-->
 <view class='teamBox ask'>
  <view class='teams'>
     <image src='/KO/img/add.png'></image>

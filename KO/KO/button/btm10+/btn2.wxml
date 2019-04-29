@@ -1,0 +1,8 @@
+<!--KO/button/btm10+/btn2.wxml-->
+
+ <view class="submit" type="submit">确认充值</view>
+
+<view class="submit submit2" type="submit">返回</view>
+
+
+<!-- K141 -->

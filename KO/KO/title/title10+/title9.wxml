@@ -1,0 +1,7 @@
+<!--KO/title/title10+/title9.wxml-->
+<view class='title'>
+    <view>度假值</view>
+    <view class='num'>182</view>
+</view>
+
+<!-- K143 -->

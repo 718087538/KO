@@ -1,0 +1,16 @@
+<!--KO/list/list30+/list7.wxml-->
+<view class='user'>
+<view class='line3'>
+    <text class='t1'>真实姓名</text>
+    <text class='t2'>梁小姐</text>
+</view>
+
+
+<view class='line3 last'>
+    <text class='t1'>提现账户</text>
+    <text class='t2'>13800138000</text>
+</view>
+</view> 
+
+
+<!-- K144 -->

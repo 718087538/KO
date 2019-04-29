@@ -1,0 +1,8 @@
+<!--KO/form/form20+/form4.wxml-->
+<view class='nums'>
+    <view class='logo'>￥</view>
+    <input type='text' class='price'></input>
+</view>
+
+
+<!-- K139 -->

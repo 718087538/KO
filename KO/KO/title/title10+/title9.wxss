@@ -1,0 +1,12 @@
+/* KO/title/title10+/title9.wxss */
+.title{
+    font-size: 28rpx;
+    display: flex;
+    align-items: baseline;
+    margin: 20rpx 60rpx;
+}
+.num{
+    font-size: 50rpx;
+    margin-left: 10rpx;
+    color: #808080;
+}

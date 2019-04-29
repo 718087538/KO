@@ -1,0 +1,35 @@
+/* KO/address/address0+/add5.wxss */
+page{
+    background: #f5f5f5;
+}
+.text-info{
+    color: #808080;
+    margin: 0 30rpx;
+    font-size: 24rpx;
+}
+.active{
+    color: #c99034;
+}
+.rightImgs{
+    width: 30rpx;
+    height: 32rpx;
+}
+.title-box  .left .l1{
+    font-size: 26rpx;
+}
+.title-box  .left .l1 text{
+    margin-right: 30rpx
+}
+.title-box  .left .l2{
+    font-size: 26rpx;
+    margin-top: 20rpx;
+    padding-right: 46rpx;
+}
+.title-box{
+    display: flex;
+    padding: 20rpx;
+    background-color: #fff;
+    margin: 20rpx;
+    align-items: center;
+    border-radius: 10rpx;
+}

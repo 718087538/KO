@@ -1,0 +1,12 @@
+<!--KO/list/list30+/list4.wxml-->
+<view class='liBox'>
+    <block wx:for="{{lis}}" wx:key>
+    <view class='li'>
+        <image class='img1 {{item.class1}}' src='/KO/img/{{item.src}}.png'></image>
+        <view class='name'>我的订单</view>
+        <image class='img2' src='/KO/img/right.png'></image>
+    </view>
+    </block>
+</view>
+
+<!-- K134 -->

@@ -1,0 +1,13 @@
+<!--KO/list/list30+/list3.wxml-->
+    <view class='house'>
+    <view class='leftInfo'>
+        <view class='title'>269</view>
+        <view class='inText'>度假值</view>
+    </view>
+     <view class='rightInfo'>
+        <view class='title'>60</view>
+        <view class='inText'>漫游值</view>
+    </view>
+</view>
+
+<!-- K133 -->

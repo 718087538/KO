@@ -1,0 +1,13 @@
+<!--KO/list/list30+/list8.wxml-->
+
+<view class='liBox'>
+    <block wx:for="{{lis}}" wx:key>
+    <navigator class='li'  url='{{item.href}}'>
+        <image class='img1 {{item.class1}}' src='/KO/img/{{item.src}}.png'></image>
+        <view class='name'>{{item.item}}</view>
+        <image class='img2' src='/KO/img/right.png'></image>
+    </navigator>
+    </block>
+</view>
+
+<!-- K145 -->
