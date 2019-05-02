@@ -1,6 +1,6 @@
 // 定义一个标题和内容链接的数组
 var _Arry = [
-    {title:'start', url: 'pages/start.html'},
+    {title:'起步', url: 'pages/start.html'},
     {title:'title', url: 'pages/title.html',class:"sel"},
     {title:'order', url: 'pages/order.html'},
     {title:'address', url: 'pages/address.html'},

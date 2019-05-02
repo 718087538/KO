@@ -1,15 +1,17 @@
 .box {
   display: flex;
   flex-wrap: wrap;
+  padding-left: 66px;
   justify-content: space-around; }
 
 .img-box {
   text-align: center;
+  margin-right: 66px;
   position: relative;
   margin-bottom: 30px; }
   .img-box .example {
-    width: 250px;
-    height: 444px;
+    width: 300px;
+    height: 540px;
     border: 2px solid #1BC550;
     zoom: 0.8;
     transition: all 0.3s; }
