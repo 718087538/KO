@@ -20,7 +20,7 @@
     </header>
 
     <section class="sec1">
-        <p class="ps">Tip：移动端需要更改单位rpx，所以使用在移动端时本框架仅可参考思路。</p>
+        <p class="tip">Tip：移动端需要更改单位rpx，所以使用在移动端时本框架仅可参考思路。</p>
         <h2>使用时有两种方式：</h2>
 
         <p class="intro">第1种：先从GitHub下载项目，并把程序跑在微信小程序开发工具中。
@@ -49,14 +49,14 @@
         <h6>成功打开后的页面</h6>
         <img src="../images/start/8.jpg" alt="">
 
-        <h6>假如我们现在需要使用这个组件，先找到代号是K28</h6>
+        <h6>假如我们现在需要使用这个组件，先在index.html找到代号是K28</h6>
         <img src="../images/start/9.jpg" alt="">
 
 
         <h6>在小程序中全局搜索，并点击进去</h6>
         <img src="../images/start/10.jpg" alt="">
 
-        <h6>饭后赋值相关的WXML，WXSS，JS到另一个小程序中</h6>
+        <h6>然后复制相关的WXML，WXSS，JS到另一个小程序中</h6>
         <img src="../images/start/11.jpg" alt="">
         <h6>第一种方法结束，注意：图片不存在是因为你本地不存在那些图片，你可以改路径即可</h6>
 
@@ -65,12 +65,14 @@
 
         <h6>把整个KO文件放在小程序中，然后利用自定义组件的方式使用。</h6>
         <img src="../images/start/7.jpg" alt="">
-        <h6>TIP:要注意路径要正确，而且不推荐这种方式，占空间。</h6>
-        <h6><a href="">小程序自定义组件使用教程，点我跳转</a></h6>
+        <h6 class="tip">TIP:要注意路径要正确，而且不推荐这种方式，占空间。</h6>
+        <h6><a href="https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/wxml-wxss.html" target="_blank">小程序自定义组件使用教程，点我跳转</a></h6>
+        <p class="tip last">TIP：目前是先把页面抽离出来，后来会深度抽象成自定义组件，所以有些地方还需要使用者自己把数据抽离出来！</p>
+        <p class="tip last">TIP：代号120左右及以下，如果在小程序单独预览可能存在路径错误，预览时注意识别路径！！！
+            原因：更新了文件结构，使之更合理。<span class="warn">不影响使用！</span>所以有时间在慢慢调整</p>
 
     </section>
     <footer>
-        <p>注：目前是先把页面抽离出来，后来会深度抽象成自定义组件，所以有些地方还需要使用者自己把数据抽离出来！</p>
     </footer>
 </body>
 </html>
